@@ -1,0 +1,523 @@
+#AREADATA
+Name Kender Village~
+Builders Xrakisis~
+VNUMs 11201 11250
+Credits 60-80} Xrakisis Kender Village~
+Security 1
+End
+
+
+
+#MOBILES
+#11201
+male kender~
+A {CM{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x~
+A {CM{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x is here.
+~
+~
+kender~
+ABG 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand male 25
+AHMV ABCDEFGHIJK medium unknown
+#11202
+female kender~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x is here.
+~
+~
+kender~
+ABG 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand female 50
+AHMV ABCDEFGHIJK medium unknown
+#11203
+kender youth~
+A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x~
+A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x stands here.
+~
+~
+kender~
+ABG 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand male 15
+AHMV ABCDEFGHIJK medium unknown
+#11204
+kender shaman~
+A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ya{Ym{ya{Yn{x~
+A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ya{Ym{ya{Yn{x meditates here.
+~
+~
+kender~
+AB 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#11205
+kender sheriff~
+A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ye{Yr{yi{Yf{yf{x~
+A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ye{Yr{yi{Yf{yf{x is here.
+~
+~
+kender~
+AG 0 0 0
+90 90 181d30+1819 90d10+85 30d3+50 none
+-51 -51 -51 -32
+0 0 E L
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#11206
+female kender~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x is here.
+~
+~
+kender~
+A 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#11207
+female kender~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x is here.
+~
+~
+kender~
+A 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#11208
+female kender~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x is here.
+~
+~
+kender~
+A 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#11209
+female kender~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x is here.
+~
+~
+kender~
+A 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#11210
+female kender~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x~
+A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x is here.
+~
+~
+kender~
+A 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#11211
+wandering kender~
+A {CW{ca{Cn{cd{Ce{cr{Ci{cn{Cg {yK{Ye{yn{Yd{ye{Yr{x~
+A {CW{ca{Cn{cd{Ce{cr{Ci{cn{Cg {yK{Ye{yn{Yd{ye{Yr{x is here
+~
+~
+kender~
+AG 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#11212
+kender adventurer~
+A {yK{Ye{yn{Yd{ye{Yr {CA{cd{Cv{ce{Cn{ct{Cu{cr{Ce{cr{x~
+A {yK{Ye{yn{Yd{ye{Yr {CA{cd{Cv{ce{Cn{ct{Cu{cr{Ce{cr{x is here.
+~
+~
+kender~
+AG 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#11213
+kender villager~
+A {yK{Ye{yn{Yd{ye{Yr {CV{ci{Cl{cl{Ca{cg{Ce{cr{x~
+A {yK{Ye{yn{Yd{ye{Yr {CV{ci{Cl{cl{Ca{cg{Ce{cr{x is here.
+~
+~
+kender~
+AG 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand male 25
+AHMV ABCDEFGHIJK medium unknown
+#11214
+kender mage~
+A {CK{ce{Cn{cd{Ce{cr {YM{ya{Yg{ye{x~
+A {CK{ce{Cn{cd{Ce{cr {YM{ya{Yg{ye{x is here.
+~
+~
+kender~
+AG 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 E L
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11201
+Town Center~
+~
+0 0 1
+D1
+~
+~
+0 0 11213
+D2
+~
+~
+0 0 11211
+D3
+~
+~
+0 0 11202
+S
+#11202
+A Path leading West~
+~
+0 0 0
+D0
+~
+~
+0 0 11203
+D1
+~
+~
+0 0 11201
+D2
+~
+~
+0 0 11204
+D3
+~
+~
+0 0 11205
+S
+#11203
+A Small Hut~
+~
+0 0 0
+D2
+~
+~
+0 0 11202
+S
+#11204
+A Small Shack~
+~
+0 0 0
+D0
+~
+~
+0 0 11202
+S
+#11205
+A Path leading West~
+~
+0 0 0
+D0
+~
+~
+0 0 11206
+D1
+~
+~
+0 0 11202
+D2
+~
+~
+0 0 11207
+D3
+~
+~
+0 0 11208
+S
+#11206
+A Mud and Staw Hut~
+~
+0 0 0
+D2
+~
+~
+0 0 11205
+S
+#11207
+A Round Mud and Straw Hut~
+~
+0 0 0
+D0
+~
+~
+0 0 11205
+S
+#11208
+A Path leading West~
+~
+0 0 0
+D1
+~
+~
+0 0 11205
+D3
+~
+~
+0 0 11209
+S
+#11209
+Worn Westerward leading path~
+~
+0 0 0
+D0
+~
+~
+0 0 11210
+D1
+~
+~
+0 0 11208
+S
+#11210
+A Shaman's Hut~
+~
+0 0 0
+D0
+~
+~
+0 0 4800
+D2
+~
+~
+0 0 11209
+S
+#11211
+South leading Path~
+~
+0 0 2
+D0
+~
+~
+0 0 11201
+D2
+~
+~
+0 0 11212
+S
+#11212
+South leading path~
+~
+0 0 2
+D0
+~
+~
+0 0 11211
+D2
+~
+~
+0 0 6100
+S
+#11213
+Worn dirt path~
+~
+0 0 0
+D0
+~
+~
+0 0 11214
+D3
+~
+~
+0 0 11201
+S
+#11214
+climbing a small hill~
+~
+0 0 0
+D1
+~
+~
+0 0 11215
+D2
+~
+~
+0 0 11213
+S
+#11215
+Hilltop Market~
+~
+0 0 0
+D0
+~
+~
+0 0 11216
+D1
+~
+~
+0 0 11217
+D3
+~
+~
+0 0 11214
+S
+#11216
+A Small Hut~
+~
+0 0 0
+D0
+~
+~
+0 0 11218
+D2
+~
+~
+0 0 11215
+S
+#11217
+A Large Round Hut~
+~
+0 0 0
+D3
+~
+~
+0 0 11215
+S
+#11218
+A Worn Path~
+~
+0 0 0
+D1
+~
+~
+0 0 11251
+D2
+~
+~
+0 0 11216
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11213 7 11201 7 Load A {yK{Ye{yn{Yd{ye{Yr {CV{ci{Cl{cl{Ca{cg{Ce{cr{x
+M 0 11211 10 11201 10 Load A {CW{ca{Cn{cd{Ce{cr{Ci{cn{Cg {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11214 6 11202 6 Load A {CK{ce{Cn{cd{Ce{cr {YM{ya{Yg{ye{x
+M 0 11213 7 11202 7 Load A {yK{Ye{yn{Yd{ye{Yr {CV{ci{Cl{cl{Ca{cg{Ce{cr{x
+M 0 11212 5 11202 5 Load A {yK{Ye{yn{Yd{ye{Yr {CA{cd{Cv{ce{Cn{ct{Cu{cr{Ce{cr{x
+M 0 11205 5 11202 5 Load A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ye{Yr{yi{Yf{yf{x
+M 0 11201 10 11203 10 Load A {CM{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11202 10 11203 10 Load A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11203 15 11203 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11203 15 11203 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11201 10 11204 10 Load A {CM{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11202 10 11204 10 Load A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11203 15 11204 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11203 15 11204 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11214 6 11205 6 Load A {CK{ce{Cn{cd{Ce{cr {YM{ya{Yg{ye{x
+M 0 11211 10 11205 10 Load A {CW{ca{Cn{cd{Ce{cr{Ci{cn{Cg {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11201 10 11206 10 Load A {CM{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11202 10 11206 10 Load A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11203 15 11206 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11203 15 11206 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11205 5 11207 5 Load A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ye{Yr{yi{Yf{yf{x
+M 0 11201 10 11207 10 Load A {CM{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11202 10 11207 10 Load A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11203 15 11207 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11203 15 11207 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11213 7 11208 7 Load A {yK{Ye{yn{Yd{ye{Yr {CV{ci{Cl{cl{Ca{cg{Ce{cr{x
+M 0 11212 5 11208 5 Load A {yK{Ye{yn{Yd{ye{Yr {CA{cd{Cv{ce{Cn{ct{Cu{cr{Ce{cr{x
+M 0 11205 5 11208 5 Load A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ye{Yr{yi{Yf{yf{x
+M 0 11214 6 11209 6 Load A {CK{ce{Cn{cd{Ce{cr {YM{ya{Yg{ye{x
+M 0 11213 7 11209 7 Load A {yK{Ye{yn{Yd{ye{Yr {CV{ci{Cl{cl{Ca{cg{Ce{cr{x
+M 0 11211 10 11209 10 Load A {CW{ca{Cn{cd{Ce{cr{Ci{cn{Cg {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11204 1 11210 1 Load A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ya{Ym{ya{Yn{x
+M 0 11213 7 11211 7 Load A {yK{Ye{yn{Yd{ye{Yr {CV{ci{Cl{cl{Ca{cg{Ce{cr{x
+M 0 11211 10 11211 10 Load A {CW{ca{Cn{cd{Ce{cr{Ci{cn{Cg {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11214 6 11212 6 Load A {CK{ce{Cn{cd{Ce{cr {YM{ya{Yg{ye{x
+M 0 11213 7 11212 7 Load A {yK{Ye{yn{Yd{ye{Yr {CV{ci{Cl{cl{Ca{cg{Ce{cr{x
+M 0 11212 5 11212 5 Load A {yK{Ye{yn{Yd{ye{Yr {CA{cd{Cv{ce{Cn{ct{Cu{cr{Ce{cr{x
+M 0 11211 10 11212 10 Load A {CW{ca{Cn{cd{Ce{cr{Ci{cn{Cg {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11205 5 11212 5 Load A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ye{Yr{yi{Yf{yf{x
+M 0 11214 6 11213 6 Load A {CK{ce{Cn{cd{Ce{cr {YM{ya{Yg{ye{x
+M 0 11212 5 11213 5 Load A {yK{Ye{yn{Yd{ye{Yr {CA{cd{Cv{ce{Cn{ct{Cu{cr{Ce{cr{x
+M 0 11205 5 11213 5 Load A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ye{Yr{yi{Yf{yf{x
+M 0 11214 6 11214 6 Load A {CK{ce{Cn{cd{Ce{cr {YM{ya{Yg{ye{x
+M 0 11213 7 11214 7 Load A {yK{Ye{yn{Yd{ye{Yr {CV{ci{Cl{cl{Ca{cg{Ce{cr{x
+M 0 11212 5 11214 5 Load A {yK{Ye{yn{Yd{ye{Yr {CA{cd{Cv{ce{Cn{ct{Cu{cr{Ce{cr{x
+M 0 11211 10 11214 10 Load A {CW{ca{Cn{cd{Ce{cr{Ci{cn{Cg {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11205 5 11214 5 Load A {CK{ce{Cn{cd{Ce{cr {yS{Yh{ye{Yr{yi{Yf{yf{x
+M 0 11213 7 11215 7 Load A {yK{Ye{yn{Yd{ye{Yr {CV{ci{Cl{cl{Ca{cg{Ce{cr{x
+M 0 11201 10 11215 10 Load A {CM{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11201 10 11216 10 Load A {CM{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11202 10 11216 10 Load A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11203 15 11216 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11203 15 11216 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11201 1 11216 1 Load A {CM{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11211 10 11217 10 Load A {CW{ca{Cn{cd{Ce{cr{Ci{cn{Cg {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11201 1 11217 1 Load A {CM{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11202 10 11217 10 Load A {CF{ce{Cm{ca{Cl{ce {yK{Ye{yn{Yd{ye{Yr{x
+M 0 11203 15 11217 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+M 0 11203 15 11217 15 Load A {CK{ce{Cn{cd{Ce{cr {yY{Yo{yu{Yt{yh{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

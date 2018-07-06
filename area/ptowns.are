@@ -1,0 +1,101 @@
+#AREADATA
+Name ptowns~
+Builders None~
+VNUMs 28000 29800
+Credits HRO ANC} Player Homes~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#28000
+Xrakisis's Home~
+~
+0 0 0
+D0
+~
+~
+0 0 28002
+D1
+~
+~
+0 0 28003
+D2
+~
+~
+0 0 28004
+D3
+~
+~
+0 0 28001
+S
+#28001
+Xrakisis's Home~
+~
+0 0 0
+D1
+~
+~
+0 0 28000
+S
+#28002
+Xrakisis's Home~
+~
+0 0 0
+D2
+~
+~
+0 0 28000
+S
+#28003
+Xrakisis's Home~
+~
+0 0 0
+D3
+~
+~
+0 0 28000
+S
+#28004
+Xrakisis's Home~
+~
+0 0 0
+D0
+~
+~
+0 0 28000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

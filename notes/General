@@ -1,0 +1,84 @@
+
+
+Sender  Xrakisis~
+Date    Wed Aug  5 13:42:34 2009~
+Stamp   1249494185
+Expire  1253814163
+To      all~
+Subject Boards~
+Text
+There will soon be an expanded Boards system.
+ 
+~
+
+Sender  Landren~
+Date    Thu Aug  6 01:25:09 2009~
+Stamp   1249536401
+Expire  1251350734
+To      immortal all~
+Subject stuff~
+Text
+I took houses out just for a brief time...that code in therre
+is a trainwreck, especially for do_house which handles the
+building of the house, selling, listing, etc. I'm gonna write
+it from scratch tomorrow.
+ 
+Peace
+~
+
+Sender  Landren~
+Date    Thu Aug  6 02:11:57 2009~
+Stamp   1249539195
+Expire  1251353524
+To      immortal all~
+Subject Copyover~
+Text
+Oh yeah, I remembered later that I hadn't rebooted the
+mud with copyover to ensure that there's no problematic
+rom executable and potential crashes.
+ 
+Thanks and I've already started rewriting the player homes.
+~
+
+Sender  Zantow~
+Date    Mon Aug 10 23:39:05 2009~
+Stamp   1249961956
+Expire  1251776350
+To      all imm~
+Subject word of recall~
+Text
+it uses moves?:)
+~
+
+Sender  Zantow~
+Date    Mon Aug 10 23:39:22 2009~
+Stamp   1249961988
+Expire  1251776365
+To      all imm~
+Subject quest~
+Text
+i broke my questingness.......i kinda crashed the mud
+and now i'm perpetually questing.......
+~
+
+Sender  Zantow~
+Date    Mon Aug 10 23:52:55 2009~
+Stamp   1249962796
+Expire  1251777187
+To      all imm~
+Subject ogre shaman is wearing his gauntlets on his arms again~
+Text
+er......wutthatsays
+~
+
+Sender  Zantow~
+Date    Mon Aug 10 23:58:31 2009~
+Stamp   1249963132
+Expire  1251777517
+To      all imm~
+Subject goblin guards~
+Text
+they don't die....just stay at 0.00 and crash mud a few
+rounds later....
+~
+

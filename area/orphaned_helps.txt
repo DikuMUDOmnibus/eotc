@@ -1,0 +1,704 @@
+[ 3001] Flugh: edit
+[ 3001] Flugh: olc
+[ 3001] Flugh: olc edit
+[ 3001] Flugh: alist
+[ 3712] Rockwell: direction
+[ 1124] Rockwell: foreswt
+[ 1124] Rockwell: forest
+[ 3001] Xrakisis: scan
+[ 1114] Rockwell: midgaard
+[ 3700] Madhkon: tier
+[ 3700] Madhkon: class
+[10717] Lina: damage
+[10717] Lina: dice
+[10717] Lina: hitroll
+[10717] Lina: roll
+[10717] Lina: hitroll
+[10717] Lina: type
+[10717] Lina: material
+[10717] Xrakisis: class
+[10717] Lina: addaffect
+[10717] Lina: add
+[    0] Smiff: kender
+[    0] Smiff: kender
+[    0] Rahbyn: hobbit
+[    0] Rahbyn: reroll
+[ 3700] Kithsadonia: monk
+[ 3700] Kithsadonia: class
+[ 3008] Nicholas: strength
+[ 3008] Nicholas: abiltiy
+[ 3008] Nicholas: str
+[    0] Grimm: centaur
+[ 3759] Grimm: breath
+[    0] Ponnet: troll
+[    0] Seydlitz: duergar
+[    0] Seydlitz: minotaur
+[ 3721] Seydlitz: remort
+[ 3054] Seydlitz: class
+[ 3054] Seydlitz: monk
+[ 3054] Seydlitz: necromancer
+[ 3007] Seydlitz: pc_race_table
+[    0] Kage: half-giant
+[ 3758] Kage: str
+[ 3758] Kage: int
+[ 3758] Kage: stats
+[ 3758] Kage: wisdom
+[ 3700] Kage: channel
+[    0] Dragkhar: durgar
+[    0] Dragkhar: duergar
+[ 3700] Dragkhar: channels
+[ 3700] Dragkhar: music
+[ 3001] Dragkhar: hero
+[ 3054] Dragkhar: hero
+[ 3054] Dragkhar: story
+[ 3054] Dragkhar: application
+[ 3054] Dragkhar: coderapp
+[ 3700] Syris: remort
+[ 3700] Syris: paladin
+[ 3714] Syris: damage
+[ 3054] Kage: diamond
+[ 3054] Kage: story
+[ 3001] Xrakisis: flaming
+[ 3001] Xrakisis: colro
+[    0] Kazar: monk
+[ 3758] Syris: monk
+[ 3758] Syris: class
+[ 3759] Sarith: remort
+[ 3759] Sarith: reroll
+[ 3054] Sarith: paladin
+[ 3054] Sarith: anti
+[ 3054] Sarith: class
+[ 3054] Sarith: drow
+[ 3025] Sarith: consecrate
+[    0] Viscar: drow
+[ 3700] Viscar: drow
+[ 3713] Viscar: monk
+[ 3054] Viscar: meditate
+[ 3726] Viscar: centaur
+[ 3700] Eterared: claim
+[ 3744] Eterared: remort
+[    0] Slayer: half-giant
+[    0] Slayer: half
+[    0] Slayer: troll
+[    0] Slayer: duegar
+[    0] Slayer: deurgar
+[    0] Corvus: drow
+[ 3719] Corvus: class
+[    0] Locka: minotaur
+[ 3758] Locka: class
+[ 3758] Locka: antipaladin
+[    0] Genesis: gnome
+[    0] Genesis: counter
+[    0] Genesis: troll
+[    0] Ikan: pixie
+[ 3700] Canaan: class
+[    0] Genesis: counter
+[    0] Havok: minotaur
+[    0] Reflex: gnome
+[    0] Reflex: hobbit
+[ 1128] Genesis: damage
+[    0] Slag: mino
+[ 3739] Dryctnath: stance
+[ 3054] Ponnet: drow
+[ 3700] Kaisel: pixie
+[10937] Nicholas: bank
+[ 3054] Ponnet: classes
+[ 3054] Ponnet: class
+[10937] Nicholas: sharp
+[ 3700] Corpses: channels
+[ 3700] Corpses: communicate
+[ 3709] Corpses: majere
+[ 3701] Corpses: class
+[ 3758] Corpses: dex
+[ 3758] Corpses: dexterity
+[ 3758] Corpses: stat
+[ 3758] Corpses: stats
+[ 3021] Corpses: consecrate
+[    0] Liandrah: counter
+[    0] Kari: kender
+[    0] Kari: kender
+[    0] Kari: pixie
+[ 3700] Kari: channel
+[ 3700] Tey: class
+[    0] GrimReApEr: drow
+[ 3712] GrimReApEr: sirrion
+[ 3719] GrimReApEr: dual
+[ 3713] GrimReApEr: monk
+[ 3713] GrimReApEr: dual
+[ 3713] Onyx: class
+[ 3713] Onyx: classes
+[ 3713] Onyx: minotaur
+[ 3054] Onyx: vampiric
+[ 3740] Onyx: damage
+[    0] Dragdul: duergar
+[    0] Belroth: hobbit
+[    0] Belroth: counter
+[ 3054] Sejik: changes
+[    0] Kiara: minotaur
+[    0] Angelica: minotaur
+[ 3701] Blaze: class
+[ 9402] Syris: dex
+[ 3736] Xrakisis: class
+[ 3700] Popcorn: monk
+[ 3700] Popcorn: class
+[ 3715] Itsaku: takhisis
+[ 3720] Vicillous: tier
+[ 3720] Vicillous: remort
+[ 3720] Vicillous: reroll
+[ 3720] Vicillous: multi
+[ 3720] Itsaku: antipaladin
+[ 3721] Itsaku: auction
+[ 3721] Itsaku: auction
+[    0] Vicillous: troll
+[ 3054] Itsaku: antipaladin
+[ 3054] Itsaku: anti
+[    0] Dess: kender
+[ 3054] Vicillous: monk
+[ 3054] Vicillous: class
+[ 3054] Vicillous: classes
+[ 3054] Vicillous: draconians
+[ 3054] Vicillous: multi
+[ 3700] Atashant: necromancer
+[ 3700] Mugnir: class
+[ 3700] Mugnir: rujle
+[ 3700] Mugnir: multiplay
+[ 3713] Mugnir: class
+[ 3713] Mugnir: remort
+[ 3054] Mugnir: character
+[    0] Seydlitz: troll
+[ 3700] Sasuke: layer kill
+[ 3700] Sasuke: multi
+[ 3700] Sasuke: mul
+[ 3700] Sasuke: b_
+[ 3700] Sasuke: builder
+[ 3700] Sasuke: build
+[ 3700] Sasuke: kill
+[ 3700] Sasuke: all
+[    1] Xrakisis: class
+[ 3001] Dekari: guild
+[    0] Seferon: drow
+[    0] Ponnet: troll
+[    0] Ponnet: drow
+[ 3757] Ponnet: troll
+[ 3720] Ponnet: dual
+[ 3700] Sino: monk
+[ 3700] Sino: class
+[ 3014] Dekari: directions
+[ 3014] Dekari: direction
+[    0] Skum: storm
+[    0] Baelias: drow
+[ 3713] Baelias: class
+[ 3760] Baelias: changes
+[ 3700] Osaku: samurai
+[ 3757] Paige: channels
+[ 3700] Torvick: monk
+[    0] Drake: drow
+[ 9410] Blackrose: damage
+[ 9414] Blackrose: weapon level
+[ 3054] Blackrose: paladin
+[ 3054] Blackrose: change
+[ 3054] Blackrose: changes
+[ 3054] Blackrose: paladine
+[ 3054] Blackrose: paladin
+[ 3054] Blackrose: guildmaster
+[    0] Capone: pixie
+[    0] Delgoth: green
+[ 3001] Dekari: tesseract
+[    0] Elvalia: reddragon
+[    0] Dhearne: blue
+[    0] Dhearne: dragon
+[    0] Dhearne: bluedragon
+[ 3001] Silvaro: monk
+[ 3001] Silvaro: monk
+[ 3721] Smiff: breif
+[ 3054] Silvaro: assassin
+[ 3758] Smiff: convert
+[ 3712] Silvaro: stance
+[ 3054] Silvaro: world
+[ 3054] Silvaro: directions
+[    1] Xrakisis: class
+[    1] Xrakisis: class
+[    1] Xrakisis: tier
+[ 3700] Sephiroth: tier
+[ 3700] Sephiroth: remort
+[    0] Broden: minotaur
+[    0] Broden: mintaur
+[    0] Broden: troll
+[ 3700] Broden: monk
+[    0] Madhkon: hydra
+[    0] Madhkon: rockseer
+[    0] Madhkon: cleave
+[ 3700] Madhkon: religion
+[ 3700] Madhkon: religion
+[ 3700] Madhkon: rpices
+[ 3700] Madhkon: clans
+[ 3054] Shiloke: consecrate
+[ 3054] Shiloke: directions
+[ 3054] Shiloke: world
+[ 3757] Kage: remort
+[ 3757] Kage: tier
+[ 3054] Shiloke: chat
+[ 3730] Kage: black dragon
+[ 3730] Kage: dragon
+[ 3001] Kage: tesseract
+[ 3121] Kage: consecrate
+[ 3001] Kage: counter
+[ 3001] Kage: cleave
+[ 3015] Kage: necromancer
+[ 3054] Kage: gods
+[    0] Kundaio: troll
+[    0] Kundaio: silverdragon
+[    0] Kundaio: cleave
+[    1] Xrakisis: jug
+[    1] Xrakisis: jugular
+[    0] Aelo: cyclops
+[ 3016] Kundaio: chann
+[ 3016] Kundaio: channel
+[    0] Kundaio: jugular slice
+[    0] Kundaio: jugular
+[    1] Xrakisis: mtod
+[ 3041] Kundaio: dual wield
+[ 9212] Kundaio: power
+[ 9212] Kundaio: continue
+[ 3011] Kundaio: exchange
+[    0] Kodesh: bluedragon
+[    0] Kodesh: arial
+[    0] Kodesh: dragon
+[ 3700] Kodesh: assassin
+[    0] Kenshin: flear
+[    0] Kenshin: felar
+[    0] Kenshin: arial
+[ 3758] Kenshin: dex
+[ 3758] Kenshin: dexterity
+[ 3758] Kenshin: constitution
+[ 3758] Kenshin: speed
+[ 3758] Kenshin: speed
+[ 3758] Kenshin: str
+[ 3758] Kenshin: int
+[ 3758] Kenshin: wis
+[ 3758] Kenshin: stat
+[ 3758] Kenshin: stats
+[ 3714] Kenshin: promopt
+[ 3001] Kenshin: assassinate
+[ 3001] Kenshin: assassinate
+[ 3001] Kenshin: counter
+[ 3001] Kenshin: grip
+[ 3001] Kenshin: counter
+[ 3001] Kenshin: slice
+[ 3001] Kenshin: jugular
+[    0] Kenshin: assassinate
+[    0] Kenshin: jugular
+[    0] Kenshin: cleave
+[    0] Kenshin: samurai default
+[    0] Kenshin: circle
+[    0] Kenshin: counter
+[ 9212] Kundaio: dual wield
+[ 9212] Kundaio: secondary
+[ 3001] Kundaio: cleave
+[ 3001] Kenshin: slice
+[ 3001] Kenshin: slash
+[ 3001] Kenshin: grip
+[ 3001] Kenshin: channel
+[ 3001] Kenshin: channel
+[ 3001] Kenshin: samurai default
+[ 3742] Kage: black dragon
+[ 3742] Kage: dragon
+[ 3001] Kenshin: haling
+[ 3012] Kage: hunt
+[ 3014] Kage: quest
+[ 3001] Kage: grip
+[ 3001] DarkenRahl: cleave
+[ 3757] Urkon: tier
+[ 3001] Urkon: direc
+[ 3001] Urkon: area_shire
+[    1] Xrakisis: cleave
+[    0] Watts: weponmaster
+[ 3005] Ponnet: changes
+[ 3716] Jamien: tier
+[    0] Athalus: pixie
+[ 3759] Athalus: monk
+[ 3006] Athalus: antipaladin
+[ 3006] Athalus: assassin
+[ 3054] Athalus: cyclops
+[    0] Athalus: animal
+[ 3713] Athalus: assassin
+[    0] Athalus: dragon
+[ 3001] Dhearne: directions
+[    0] Bolt: blackdragon
+[10901] Bolt: stance
+[ 1530] Crilloc: mastery
+[ 3001] Bolt: animal instinct
+[    0] Cairon: animal
+[    0] Cairon: animal
+[ 3758] Cairon: str
+[ 3730] Cairon: dragon
+[ 9212] Cairon: assassin
+[ 9212] Cairon: assassin
+[ 9212] Cairon: ass
+[ 9212] Cairon: brass
+[ 9212] Cairon: dragon
+[ 9212] Cairon: necromancer
+[ 3001] Cairon: palad
+[ 3001] Cairon: anti
+[    0] Kurama: brass
+[    0] Kurama: brass dragon
+[    0] Kurama: brass dragon
+[    0] Kurama: dragon
+[    0] Kurama: storm
+[    0] Kurama: arial
+[    0] Kurama: rockseer
+[    0] Kurama: antipal
+[    0] Kurama: counter
+[10937] Bolt: deities
+[10937] Bolt: worship
+[ 3011] Stonge: antipaladin
+[ 3001] Bolt: monk
+[ 3001] Bolt: investiture
+[ 3001] Dhearne: channel
+[ 3001] Dhearne: powerstorm
+[ 3041] Dhearne: directions
+[21058] Dhearne: remort
+[15857] Ponnet: relic
+[    0] Lore: vampire
+[    0] Lore: duergar
+[    0] Julien: whitedragon
+[    0] Julien: dragon
+[    0] Julien: animal
+[    0] Julien: animal
+[ 3700] Julien: white dragon
+[ 3700] Julien: white
+[ 3700] Julien: dragon
+[ 3714] Julien: tesseract
+[ 3005] Julien: ofcol
+[ 3005] Julien: new ofcol
+[ 3011] Julien: stat
+[ 3011] Julien: check
+[ 3011] Julien: analyze
+[  105] Julien: arachnos
+[ 1510] Julien: off
+[ 1510] Julien: second hand
+[ 3001] Julien: trainer
+[ 2114] Julien: white
+[ 3001] Julien: ms
+[    0] Archaic: animal
+[    0] Archaic: animal
+[ 3700] Archaic: assassin
+[ 3700] Archaic: necromancer
+[ 3700] Archaic: necromancer
+[ 3700] Archaic: monk
+[ 3700] Archaic: fifth
+[ 3001] Ponnet: second class
+[    0] Ogim: ckclops
+[    0] Ogim: cyclops
+[    0] Ogim: cyclops
+[ 3759] Ogim: monk
+[ 3759] Ogim: monk
+[ 3712] Ogim: points
+[ 3712] Ogim: class monk
+[ 3011] Ogim: guild
+[    0] Ogim: troll
+[ 3006] Ogim: anti
+[ 3006] Ogim: anti
+[ 3006] Ogim: antipaladin
+[ 3001] Ogim: multiclass
+[ 7102] Ogim: assassin
+[ 7102] Ogim: nanja
+[ 3001] Ogim: animal
+[ 3001] Ogim: multiclass
+[ 3001] Ghal: grip
+[    0] Kotaro: arial
+[10918] Possum: dispel mag possum
+[ 3001] Ghal: percision
+[ 3001] Ghal: slice
+[ 3001] Ghal: jugular slice
+[ 3001] Ghal: ass
+[ 3001] Ghal: assassin
+[ 3001] Ghal: animal
+[ 3054] Milenko: area_dwarven
+[ 3054] Milenko: area dwarven
+[ 3004] Milenko: guild
+[15837] Milenko: chan
+[    0] Taltos: hydra
+[    0] Taltos: rockseer
+[    0] Taltos: animal
+[ 3054] Ghal: quest
+[ 3001] Ghal: animal
+[ 3001] Ghal: animal instint
+[ 3001] Ghal: instint
+[ 3759] Atashant: blue
+[ 3759] Atashant: dragon
+[ 3721] Atashant: second class
+[ 3001] Ghal: cera
+[ 3001] Ghal: ceration
+[ 3001] Ghal: disc
+[ 3054] Atashant: multiclass
+[    0] Rystin: felar
+[ 1503] Rystin: wepaon level
+[ 6501] Rystin: assassin
+[ 6501] Rystin: precision strike
+[ 6502] Rystin: consecrate
+[ 3027] Rystin: guild
+[ 3001] Rystin: direction
+[ 9245] Rystin: multiclass
+[ 9245] Rystin: assassin
+[ 9245] Rystin: multi
+[ 3001] Possum: ass
+[ 3001] Possum: assassinate
+[ 3001] Possum: assass
+[ 3001] Possum: assassinate
+[ 3001] Possum: assassin
+[ 3001] Possum: counter
+[ 3054] Ghal: consecrate
+[ 3054] Ghal: flag
+[ 3001] Possum: crit
+[ 3001] Possum: tesseract
+[ 3001] Possum: fire shield
+[ 3001] Possum: flame shield
+[ 3001] Possum: tess
+[ 3054] Rystin: assassin
+[ 3001] Ghal: portective
+[ 3001] Ghal: transportatin
+[ 3001] Possum: tess
+[ 3001] Possum: shields
+[ 9548] Ghal: world
+[ 3001] Possum: cleric defalt
+[ 3001] Possum: power
+[ 3001] Possum: channel
+[ 3758] Zytir: tesseract
+[ 3712] Zytir: assassin
+[ 3712] Zytir: ass
+[ 3712] Zytir: monk
+[    0] Rhije: drow
+[    0] Ogim: hydra
+[    0] Ogim: hydra
+[ 3001] Ghal: crate rose
+[ 3001] Possum: hunt
+[ 3001] Possum: lvl 60
+[ 3001] Possum: news
+[ 3001] Possum: invesiture
+[ 3001] Possum: investiture
+[ 3001] Possum: powerstorm
+[15861] Possum: animal instinct
+[ 3361] Xrakisis: shop
+[ 3001] Ghal: web
+[ 3001] Ghal: mald
+[ 3001] Ghal: brg
+[ 3001] Possum: assasinate
+[ 3001] Ghal: tess
+[ 3001] Ghal: tess
+[15846] Ghal: ranger
+[15846] Ghal: ass
+[ 3001] Ghal: animal
+[ 3001] Ghal: ranger
+[    0] Kordrin: counter
+[ 3757] Kordrin: anti
+[ 3757] Kordrin: antipaladin
+[ 3555] Kordrin: counte
+[ 3555] Kordrin: counter
+[ 3001] Otrant: tesseract
+[ 3759] Nargoth: tess
+[    0] Raaj: hydra
+[    0] Raaj: hydra
+[    0] Raaj: rockseer
+[ 3700] Xarix: multiclass
+[ 3700] Xarix: tesseract
+[ 3001] Possum: power
+[    0] Cresil: drow
+[    0] Cresil: drow
+[    0] Cresil: cyclops
+[    0] Cresil: samurai default
+[ 3713] Cresil: kender
+[ 3758] Cresil: channel
+[ 3001] Cresil: assassinate
+[ 6540] Cresil: relic
+[ 6512] Cresil: consecrate
+[ 6502] Cresil: multiplaying
+[ 3700] Cresil: corpse
+[    0] Khain: hydra
+[    0] Falthorne: rockseer
+[    0] Falthorne: rock
+[    0] Falthorne: hydra
+[    0] Mekhet: necromancer
+[    0] Mekhet: monk
+[    0] Mekhet: assassin
+[    0] Mekhet: reddragon
+[    0] Mekhet: drow
+[ 3710] Randor: duger
+[ 3710] Randor: du
+[ 3710] Randor: duer
+[ 3710] Randor: duerger
+[ 3710] Randor: duerguar
+[11152] Xrakisis: wtyp
+[ 3758] Rmongler: gain convert
+[ 3742] Rmongler: gold dragon
+[ 3742] Rmongler: dragon
+[    0] Tellra: whitedragon
+[    0] Tellra: dragon
+[ 3757] Tellra: communication
+[ 3757] Tellra: chat
+[ 3757] Tellra: ooc
+[ 3757] Tellra: chan
+[ 3757] Tellra: channels
+[ 3758] Tellra: animal instinct
+[    0] Aaron: monk
+[ 3700] Aaron: monk
+[    0] Jeread: svirfnebli
+[    0] Jeread: githyanki
+[ 3712] Jeread: rockseer
+[ 3712] Jeread: monk
+[    0] Vargr: half-orc
+[    0] Vargr: drow
+[    0] Vargr: monk
+[    0] Jinchi: copperdragon
+[    0] Warpath: cyclops
+[ 3050] Warpath: new thalos
+[    0] Tsune: assassin
+[ 3754] Tsune: classtwo
+[ 3754] Tsune: remort
+[    0] Opio: rocksser
+[    0] Opio: rockseer
+[    0] Aaron: grip
+[    0] Aaron: monk
+[ 3737] Draven: assassin
+[ 3005] Draven: directions
+[ 3005] Draven: direction
+[ 3001] Zilba: multi
+[    1] Xrakisis: hedit
+[    1] Xrakisis: paladin
+[ 3054] Draven: tesseract
+[10939] Draven: mercenary
+[ 3712] Zilba: deities
+[ 3712] Zilba: deitie
+[ 1509] Zilba: takhisis
+[    0] Dace: animal
+[ 3759] Dace: jugular slice
+[    0] Eod: silverdragon
+[    0] Eod: dragon
+[    0] Eod: hydra
+[    0] Eod: firegiant
+[    0] Eod: stormgiant
+[    0] Eod: silver dragon
+[ 3758] Eod: wisdom
+[ 3710] Eod: assassin
+[ 3720] Eod: int
+[ 3720] Eod: multiclass
+[ 3720] Eod: blacksmith
+[ 3719] Eod: smith
+[ 3721] Eod: necromancer
+[ 3732] Eod: jugular
+[ 3734] Eod: remort
+[ 3005] Eod: directions
+[ 7049] Eod: monk
+[ 7049] Eod: assassin
+[ 7866] Eod: quest
+[    0] Alaric: majere
+[    0] Ravyna: felar
+[ 3700] Ravyna: multiclass
+[ 3713] Ravyna: assassin
+[ 3713] Ravyna: paladin
+[ 3363] Ravyna: blacksmith
+[11018] Draven: assassin
+[    1] Xrakisis: hedit
+[    1] Xrakisis: hedit
+[    1] Xrakisis: assassin
+[    0] Mog: pixie
+[    0] Mekhet: necromancy
+[    0] Mekhet: necromancer
+[    0] Mekhet: monk
+[    0] Mekhet: monk
+[    0] Mekhet: necro
+[    0] Mekhet: red dragon
+[    0] Mekhet: reddragon
+[    0] Mekhet: drow
+[    0] Mekhet: nuitari
+[    0] Xerses: copper
+[    0] Xerses: branchala
+[    0] Xerses: gods
+[    0] Sorina: felar
+[    0] Sorina: kender
+[ 3759] Sorina: monk
+[10903] Zilba: scourge
+[    0] Cossa: zeboim
+[    0] Cossa: takhisis
+[    0] Cossa: chemosh
+[    0] Cossa: hiddukel
+[    0] Cossa: gods
+[    0] Cossa: psyche
+[    0] Daegon: blackdragon
+[    0] Daegon: chemosh
+[    0] Daegon: morgion
+[    0] Daegon: blackdragon
+[    0] Daegon: animal
+[    0] Daegon: animal
+[    0] Daegon: psyche
+[ 3758] Daegon: lich
+[ 3721] Daegon: int
+[ 3758] Daegon: int
+[ 3758] Daegon: wisdom
+[ 3759] Daegon: channel
+[ 3759] Daegon: tesseract
+[ 3014] Belran: druid
+[ 3014] Belran: druid
+[ 3700] Belran: midgaard
+[ 3001] Belran: multiclass
+[ 3001] Belran: multiclass
+[ 3713] Digita: stance
+[ 3020] Zilba: smith
+[ 3020] Zilba: forge
+[ 3020] Zilba: smithing
+[ 3020] Zilba: forging
+[11112] Draven: smith
+[11112] Draven: smith
+[    0] Airanda: hydra
+[    0] Airanda: drow
+[ 3759] Airanda: acetum prime
+[ 3001] Ponnet: acetum
+[ 3054] Ponnet: directions
+[11102] Ponnet: secondary attack
+[ 3361] Ponnet: forge
+[    0] Carad: cloudgiant
+[    0] Carad: reddragon
+[    0] Carad: red dragon
+[    0] Carad: dragon
+[11105] Ponnet: tesseract
+[11122] Ponnet: forge
+[11122] Ponnet: forging
+[ 3720] Ellaina: multiclass
+[ 1509] Ellaina: stance
+[ 6501] Ellaina: changes
+[ 3360] Digita: bank
+[ 3700] Digitah: multi
+[    0] Lex: counter
+[    0] Lex: grip
+[ 3700] Lex: tmpparry
+[10902] Lex: critical
+[10903] Lex: customize
+[    0] Lex: forging
+[ 3361] Ponnet: gem stone
+[    0] Zayde: shinare
+[    0] Zayde: reorx
+[ 3700] Zayde: stance
+[ 3758] Zayde: stats
+[ 3758] Zayde: dex
+[ 3758] Zayde: str
+[ 3759] Zayde: secondary
+[    0] Zayde: grip
+[    0] Zayde: rampage
+[    0] Zayde: jugular strike
+[ 3759] Zayde: learn
+[ 3703] Zayde: avenger
+[ 3703] Zayde: templar
+[ 3703] Zayde: lich
+[ 3703] Zayde: avenger
+[ 3712] Zayde: gods
+[ 3712] Zayde: paladine
+[    0] Ryou: reddragon
+[    0] Ryou: dragon
+[    0] Ryou: red dragon
+[ 3502] Kage: directions
+[ 3502] Kage: world
+[ 3502] Kage: tower
+[ 3363] Kage: forge
+[ 3363] Kage: smith
+[    0] Kage: shinare
+[ 3721] Kage: guild

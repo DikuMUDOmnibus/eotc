@@ -1,0 +1,885 @@
+#AREADATA
+Name Midgaard Prison~
+Builders None~
+VNUMs 11151 11200
+Credits 120 150} Xrakisis Midgaard Prison~
+Security 1
+End
+
+
+
+#MOBILES
+#11152
+warden~
+The Warden~
+The Warden is here.
+~
+~
+human~
+AB H 0 0
+150 150 301d50+4546 150d10+85 50d3+80 wrath
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#11154
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11155
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11157
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11158
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11160
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11161
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11163
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11164
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11166
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11167
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11169
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11170
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11172
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11173
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11175
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11176
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11178
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11179
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11181
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11182
+prisoner~
+A Prisoner~
+A Prisoner is here.
+~
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#11152
+wardens belt~
+the {cWardens {yLeather{x Belt~
+The {cWardens {yLeather{x Belt is here.~
+unknown~
+armor 0 AL
+CE CE CE CE 0
+90 1 2500 P
+A
+13 2000
+A
+18 10
+A
+19 40
+#0
+
+
+
+#ROOMS
+#11151
+Entrance to Midgaard Prison~
+~
+0 0 0
+D0
+~
+~
+0 0 11152
+D2
+~
+~
+0 0 3264
+S
+#11152
+Intersection~
+~
+0 0 0
+D1
+~
+~
+0 0 11168
+D2
+~
+~
+0 0 11151
+D3
+~
+~
+0 0 11153
+S
+#11153
+Western Cell Block~
+~
+0 0 0
+D0
+~
+~
+0 0 11154
+D1
+~
+~
+0 0 11152
+D2
+~
+~
+0 0 11155
+D3
+~
+~
+0 0 11156
+S
+#11154
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 11153
+S
+#11155
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 11153
+S
+#11156
+Western Cell Block~
+~
+0 0 0
+D0
+~
+~
+0 0 11157
+D1
+~
+~
+0 0 11153
+D2
+~
+~
+0 0 11158
+D3
+~
+~
+0 0 11159
+S
+#11157
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 11156
+S
+#11158
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 11156
+S
+#11159
+Western Cell Block~
+~
+0 0 0
+D0
+~
+~
+0 0 11160
+D1
+~
+~
+0 0 11156
+D2
+~
+~
+0 0 11161
+D3
+~
+~
+0 0 11162
+S
+#11160
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 11159
+S
+#11161
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 11159
+S
+#11162
+Western Cell Block~
+~
+0 0 0
+D0
+~
+~
+0 0 11163
+D1
+~
+~
+0 0 11159
+D2
+~
+~
+0 0 11164
+D3
+~
+~
+0 0 11165
+S
+#11163
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 11162
+S
+#11164
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 11162
+S
+#11165
+Western Cell Block~
+~
+0 0 0
+D0
+~
+~
+0 0 11166
+D1
+~
+~
+0 0 11162
+D2
+~
+~
+0 0 11167
+S
+#11166
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 11165
+S
+#11167
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 11165
+S
+#11168
+Eastern Cell Block~
+~
+0 0 0
+D0
+~
+~
+0 0 11169
+D1
+~
+~
+0 0 11171
+D2
+~
+~
+0 0 11170
+D3
+~
+~
+0 0 11152
+S
+#11169
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 11168
+S
+#11170
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 11168
+S
+#11171
+Eastern Cell Block~
+~
+0 0 0
+D0
+~
+~
+0 0 11172
+D1
+~
+~
+0 0 11174
+D2
+~
+~
+0 0 11173
+D3
+~
+~
+0 0 11168
+S
+#11172
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 11171
+S
+#11173
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 11171
+S
+#11174
+Eastern Cell Block~
+~
+0 0 0
+D0
+~
+~
+0 0 11175
+D1
+~
+~
+0 0 11177
+D2
+~
+~
+0 0 11176
+D3
+~
+~
+0 0 11171
+S
+#11175
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 11174
+S
+#11176
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 11174
+S
+#11177
+Eastern Cell Block~
+~
+0 0 0
+D0
+~
+~
+0 0 11178
+D1
+~
+~
+0 0 11180
+D2
+~
+~
+0 0 11179
+D3
+~
+~
+0 0 11174
+S
+#11178
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 11177
+S
+#11179
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 11177
+S
+#11180
+Eastern Cell Block~
+~
+0 0 0
+D0
+~
+~
+0 0 11181
+D2
+~
+~
+0 0 11182
+D3
+~
+~
+0 0 11177
+S
+#11181
+A Cell~
+~
+0 0 0
+D2
+~
+~
+0 0 11180
+S
+#11182
+A Cell~
+~
+0 0 0
+D0
+~
+~
+0 0 11180
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11152 1 11152 1 Load The Warden
+E 0 11152 0 13 The {cwardens {yleather{x belt is loaded around the waist of The Warden
+M 0 11154 5 11154 5 Load A Prisoner
+M 0 11154 5 11154 5 Load A Prisoner
+M 0 11154 5 11154 5 Load A Prisoner
+M 0 11154 5 11154 5 Load A Prisoner
+M 0 11154 5 11154 5 Load A Prisoner
+M 0 11155 5 11155 5 Load A Prisoner
+M 0 11155 5 11155 5 Load A Prisoner
+M 0 11155 5 11155 5 Load A Prisoner
+M 0 11155 5 11155 5 Load A Prisoner
+M 0 11155 5 11155 5 Load A Prisoner
+M 0 11157 5 11157 5 Load A Prisoner
+M 0 11157 5 11157 5 Load A Prisoner
+M 0 11157 5 11157 5 Load A Prisoner
+M 0 11157 5 11157 5 Load A Prisoner
+M 0 11157 5 11157 5 Load A Prisoner
+M 0 11158 5 11158 5 Load A Prisoner
+M 0 11158 5 11158 5 Load A Prisoner
+M 0 11158 5 11158 5 Load A Prisoner
+M 0 11158 5 11158 5 Load A Prisoner
+M 0 11158 5 11158 5 Load A Prisoner
+M 0 11160 5 11160 5 Load A Prisoner
+M 0 11160 5 11160 5 Load A Prisoner
+M 0 11160 5 11160 5 Load A Prisoner
+M 0 11160 5 11160 5 Load A Prisoner
+M 0 11160 5 11160 5 Load A Prisoner
+M 0 11161 5 11161 5 Load A Prisoner
+M 0 11161 5 11161 5 Load A Prisoner
+M 0 11161 5 11161 5 Load A Prisoner
+M 0 11161 5 11161 5 Load A Prisoner
+M 0 11161 5 11161 5 Load A Prisoner
+M 0 11163 5 11163 5 Load A Prisoner
+M 0 11163 5 11163 5 Load A Prisoner
+M 0 11163 5 11163 5 Load A Prisoner
+M 0 11163 5 11163 5 Load A Prisoner
+M 0 11163 5 11163 5 Load A Prisoner
+M 0 11164 5 11164 5 Load A Prisoner
+M 0 11164 5 11164 5 Load A Prisoner
+M 0 11164 5 11164 5 Load A Prisoner
+M 0 11164 5 11164 5 Load A Prisoner
+M 0 11164 5 11164 5 Load A Prisoner
+M 0 11166 5 11166 5 Load A Prisoner
+M 0 11166 5 11166 5 Load A Prisoner
+M 0 11166 5 11166 5 Load A Prisoner
+M 0 11166 5 11166 5 Load A Prisoner
+M 0 11166 5 11166 5 Load A Prisoner
+M 0 11167 5 11167 5 Load A Prisoner
+M 0 11167 5 11167 5 Load A Prisoner
+M 0 11167 5 11167 5 Load A Prisoner
+M 0 11167 5 11167 5 Load A Prisoner
+M 0 11167 5 11167 5 Load A Prisoner
+M 0 11169 5 11169 5 Load A Prisoner
+M 0 11169 5 11169 5 Load A Prisoner
+M 0 11169 5 11169 5 Load A Prisoner
+M 0 11169 5 11169 5 Load A Prisoner
+M 0 11169 5 11169 5 Load A Prisoner
+M 0 11170 5 11170 5 Load A Prisoner
+M 0 11170 5 11170 5 Load A Prisoner
+M 0 11170 5 11170 5 Load A Prisoner
+M 0 11170 5 11170 5 Load A Prisoner
+M 0 11170 5 11170 5 Load A Prisoner
+M 0 11172 5 11172 5 Load A Prisoner
+M 0 11172 5 11172 5 Load A Prisoner
+M 0 11172 5 11172 5 Load A Prisoner
+M 0 11172 5 11172 5 Load A Prisoner
+M 0 11172 5 11172 5 Load A Prisoner
+M 0 11173 5 11173 5 Load A Prisoner
+M 0 11173 5 11173 5 Load A Prisoner
+M 0 11173 5 11173 5 Load A Prisoner
+M 0 11173 5 11173 5 Load A Prisoner
+M 0 11173 5 11173 5 Load A Prisoner
+M 0 11175 5 11175 5 Load A Prisoner
+M 0 11175 5 11175 5 Load A Prisoner
+M 0 11175 5 11175 5 Load A Prisoner
+M 0 11175 5 11175 5 Load A Prisoner
+M 0 11175 5 11175 5 Load A Prisoner
+M 0 11176 5 11176 5 Load A Prisoner
+M 0 11176 5 11176 5 Load A Prisoner
+M 0 11176 5 11176 5 Load A Prisoner
+M 0 11176 5 11176 5 Load A Prisoner
+M 0 11176 5 11176 5 Load A Prisoner
+M 0 11178 5 11178 5 Load A Prisoner
+M 0 11178 5 11178 5 Load A Prisoner
+M 0 11178 5 11178 5 Load A Prisoner
+M 0 11178 5 11178 5 Load A Prisoner
+M 0 11178 5 11178 5 Load A Prisoner
+M 0 11179 5 11179 5 Load A Prisoner
+M 0 11179 5 11179 5 Load A Prisoner
+M 0 11179 5 11179 5 Load A Prisoner
+M 0 11179 5 11179 5 Load A Prisoner
+M 0 11179 5 11179 5 Load A Prisoner
+M 0 11181 5 11181 5 Load A Prisoner
+M 0 11181 5 11181 5 Load A Prisoner
+M 0 11181 5 11181 5 Load A Prisoner
+M 0 11181 5 11181 5 Load A Prisoner
+M 0 11181 5 11181 5 Load A Prisoner
+M 0 11182 5 11182 5 Load A Prisoner
+M 0 11182 5 11182 5 Load A Prisoner
+M 0 11182 5 11182 5 Load A Prisoner
+M 0 11182 5 11182 5 Load A Prisoner
+M 0 11182 5 11182 5 Load A Prisoner
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,518 @@
+#AREADATA
+Name Liches fortress~
+Builders None~
+VNUMs 11251 11299
+Credits 200 ANC} Xrakisis Liches Fortress~
+Security 1
+End
+
+
+
+#MOBILES
+#11251
+Skeletal Warrior~
+A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x~
+A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x is here.
+~
+~
+human~
+AB 0 -1000 0
+225 225 451d75+11361 225d10+85 75d3+117 none
+-142 -142 -142 -95
+0 0 0 0
+stand stand male 1500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11252
+Lich~
+The {RL{ri{Rc{rh{x~
+The {RL{ri{Rc{rh{x is here.
+~
+~
+human~
+AB 0 -1000 0
+250 250 501d83+12626 250d10+85 83d3+130 none
+-159 -159 -159 -107
+0 0 0 0
+stand stand male 5000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#11276
+lich bracer of power~
+{RA L{ri{Rc{rh{R'{rs {CB{cr{Ca{cc{Ce{cr {Rof {YPOWER{x~
+{RA L{ri{Rc{rh{R'{rs {CB{cr{Ca{cc{Ce{cr {Rof {YPOWER{x is here.~
+stone~
+armor GY AM
+BEF BEF BEF DEFG 0
+120 10 10000 P
+A
+18 80
+A
+19 80
+A
+12 2000
+#0
+
+
+
+#ROOMS
+#11264
+Fortress Wall~
+~
+0 0 0
+D1
+~
+~
+0 0 11263
+D3
+~
+~
+0 0 11265
+S
+#11265
+Fortress Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 18244
+D1
+~
+~
+0 0 11264
+D3
+~
+~
+0 0 11266
+S
+#11266
+Fortress Wall~
+~
+0 0 0
+D1
+~
+~
+0 0 11265
+D3
+~
+~
+0 0 11267
+S
+#11267
+Fortress Wall~
+~
+0 0 0
+D1
+~
+~
+0 0 11266
+D2
+~
+~
+0 0 11268
+S
+#11268
+Fortress Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 11267
+D2
+~
+~
+0 0 11251
+S
+#11269
+Fortress Road~
+~
+0 0 0
+D1
+~
+~
+0 0 11270
+D3
+~
+~
+0 0 11251
+S
+#11270
+Fortress Road~
+~
+0 0 0
+D0
+~
+~
+0 0 11273
+D1
+~
+~
+0 0 11271
+D3
+~
+~
+0 0 11269
+S
+#11271
+Fortress Road~
+~
+0 0 0
+D1
+~
+~
+0 0 11272
+D3
+~
+~
+0 0 11270
+S
+#11272
+Fortress Road~
+~
+0 0 0
+D1
+~
+~
+0 0 11260
+D3
+~
+~
+0 0 11271
+S
+#11273
+Bottom of Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 11270
+D4
+~
+~
+0 0 11274
+S
+#11274
+First Floor of Tower~
+~
+0 0 0
+D4
+~
+~
+0 0 11275
+D5
+~
+~
+0 0 11273
+S
+#11275
+Second Floor of Tower~
+~
+0 0 0
+D4
+~
+~
+0 0 11276
+D5
+~
+~
+0 0 11274
+S
+#11276
+Third Floor of Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 11275
+S
+#11251
+Fortress Gate~
+~
+0 0 1
+D0
+~
+~
+0 0 11268
+D1
+~
+~
+0 0 11269
+D2
+~
+~
+0 0 11252
+D3
+~
+~
+0 0 11218
+S
+#11252
+Fortress Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 11251
+D2
+~
+~
+0 0 11253
+S
+#11253
+Fortress Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 11252
+D1
+~
+~
+0 0 11254
+S
+#11254
+Fortress Wall~
+~
+0 0 0
+D1
+~
+~
+0 0 11255
+D3
+~
+~
+0 0 11253
+S
+#11255
+Fortress Wall~
+~
+0 0 0
+D1
+~
+~
+0 0 11256
+D3
+~
+~
+0 0 11254
+S
+#11256
+Fortress Wall~
+~
+0 0 0
+D1
+~
+~
+0 0 11257
+D3
+~
+~
+0 0 11255
+S
+#11257
+Fortress Wall~
+~
+0 0 0
+D1
+~
+~
+0 0 11258
+D3
+~
+~
+0 0 11256
+S
+#11258
+Fortress Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 11259
+D3
+~
+~
+0 0 11257
+S
+#11259
+Fortress Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 11260
+D2
+~
+~
+0 0 11258
+S
+#11260
+Fortress Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 11261
+D2
+~
+~
+0 0 11259
+D3
+~
+~
+0 0 11272
+S
+#11261
+Fortress Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 11262
+D2
+~
+~
+0 0 11260
+S
+#11262
+Fortress Wall~
+~
+0 0 0
+D2
+~
+~
+0 0 11261
+D3
+~
+~
+0 0 11263
+S
+#11263
+Fortress Wall~
+~
+0 0 0
+D1
+~
+~
+0 0 11262
+D3
+~
+~
+0 0 11264
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11251 74 11264 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11264 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11264 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11264 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11265 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11265 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11265 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11265 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11266 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11266 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11266 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11266 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11267 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11267 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11267 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11267 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11268 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11268 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11268 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11268 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11252 1 11276 1 Load The {RL{ri{Rc{rh{x
+E 0 11276 0 14 {ra l{ri{rc{rh{r'{rs {cb{cr{ca{cc{ce{cr {rof {ypower{x is loaded on the left wrist of The {RL{ri{Rc{rh{x
+M 0 11251 74 11251 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11251 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11251 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11251 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11252 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11252 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11252 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11252 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11253 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11253 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11253 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11253 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11253 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11253 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11254 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11254 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11254 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11254 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11255 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11255 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11255 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11255 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11256 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11256 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11256 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11256 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11257 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11257 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11257 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11257 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11258 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11258 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11258 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11258 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11259 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11259 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11259 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11259 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11260 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11260 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11260 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11260 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11261 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11261 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11261 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11261 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11262 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11262 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11262 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11262 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11263 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11263 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11263 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+M 0 11251 74 11263 74 Load A {CS{ck{Ce{cl{Ce{ct{Ca{cl {RW{ra{Rr{rr{Ri{ro{Rr{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

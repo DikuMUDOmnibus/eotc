@@ -1,0 +1,1866 @@
+#AREADATA
+Name Tower of High Sorcery~
+Builders None~
+VNUMs 10901 11000
+Credits 15 50} {wXrakisis Tower of Sorcery{x~
+Security 1
+End
+
+
+
+#MOBILES
+#10901
+a gardener~
+the Tower Gardener~
+The Tower Gardener is standing here.
+~
+~
+human~
+AB 0 0 0
+14 14 29d4+142 14d10+85 4d3+12 none
+0 0 0 2
+0 0 0 0
+stand stand none 250
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10902
+tower guard~
+Tower Guard~
+A Tower Guard is here.
+~
+~
+human~
+AB 0 0 0
+16 16 33d5+162 16d10+85 5d3+13 none
+-1 -1 -1 1
+0 0 0 0
+stand stand none 90
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10903
+an apprentice~
+a 15th level apprentice~
+A 15th level apprentice stands here.
+~
+~
+human~
+AB 0 0 0
+15 15 31d5+152 15d10+85 5d3+12 none
+0 0 0 2
+0 0 0 0
+stand stand none 90
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10904
+an apprentice~
+a 14th level apprentice~
+A 14th level apprentice stands here
+~
+~
+human~
+AB 0 0 0
+14 14 29d4+142 14d10+85 4d3+12 none
+0 0 0 2
+0 0 0 0
+stand stand none 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10905
+a red robed mage~
+A red robed mage~
+A Red Robed mage is here
+~
+~
+human~
+AB 0 0 0
+15 15 31d5+152 15d10+85 5d3+12 none
+0 0 0 2
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10906
+black robed mage~
+a black robed mage~
+A black robed mage is here
+~
+~
+human~
+AB 0 -1000 0
+15 15 31d5+152 15d10+85 5d3+12 none
+0 0 0 2
+0 0 0 0
+stand stand none 150
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10907
+a white robed mage~
+a white robed mage~
+A white robed mage is here
+~
+~
+human~
+AB 0 0 0
+15 15 31d5+152 15d10+85 5d3+12 none
+0 0 0 2
+0 0 0 0
+stand stand none 50
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10908
+red robed mage~
+A red robed mage~
+A 17th level red robed mage is here
+~
+~
+human~
+ABR 0 0 0
+17 17 35d5+172 17d10+85 5d3+13 none
+-2 -2 -2 1
+0 0 0 0
+stand stand none 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10909
+alchemist~
+An Alchemist~
+A 17th level Alchemist stands here
+~
+~
+human~
+ABR 0 0 0
+17 17 35d5+172 17d10+85 5d3+13 none
+-2 -2 -2 1
+0 0 0 0
+stand stand none 150
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10910
+Herbalist~
+An Herbalist~
+A 17th Level Herbalist is here
+~
+~
+human~
+ABR 0 0 0
+17 17 35d5+172 17d10+85 5d3+13 none
+-2 -2 -2 1
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10911
+invoker~
+An Invoker~
+A 17th level Invoker is here
+~
+~
+human~
+ABR 0 0 0
+17 17 35d5+172 17d10+85 5d3+13 none
+-2 -2 -2 1
+0 0 0 0
+stand stand none 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10912
+transmuter~
+A Transmuter~
+A 17th level Transmuter is here.
+~
+~
+human~
+ABR 0 0 0
+17 17 35d5+172 17d10+85 5d3+13 none
+-2 -2 -2 1
+0 0 0 0
+stand stand male 250
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10913
+abjurer~
+an abjurer~
+A 18'th level abjurer is here
+~
+~
+human~
+ABR 0 0 0
+18 18 37d6+182 18d10+85 6d3+14 none
+-2 -2 -2 0
+0 0 0 0
+stand stand none 150
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10914
+Illusionist~
+an Illusionist~
+An illusionist is here
+~
+~
+human~
+ABR 0 0 0
+18 18 37d6+182 18d10+85 6d3+14 none
+-2 -2 -2 0
+0 0 0 0
+stand stand none 150
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10915
+conjurer~
+A Conjurer~
+A 18th level Conjurer is here.
+~
+~
+human~
+ABR 0 0 0
+18 18 37d6+182 18d10+85 6d3+14 none
+-2 -2 -2 0
+0 0 0 0
+stand stand none 150
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10916
+enchanter~
+enchanter~
+A 18th level Enchanter is here
+~
+~
+human~
+ABR 0 0 0
+18 18 37d6+182 18d10+85 6d3+14 none
+-2 -2 -2 0
+0 0 0 0
+stand stand male 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10917
+diviner~
+Diviner~
+A 18th level Diviner is here.
+~
+~
+human~
+ABR 0 0 0
+18 18 37d6+182 18d10+85 6d3+14 none
+-2 -2 -2 0
+0 0 0 0
+stand stand none 120
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10918
+wokanist~
+A Wokanist~
+A Wokanist is here (20th level)
+~
+~
+human~
+ABR 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 none
+-3 -3 -3 0
+0 0 0 0
+stand stand none 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10919
+bard~
+A Bard~
+A Bard is here. (level 20)
+~
+~
+human~
+ABR 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 none
+-3 -3 -3 0
+0 0 0 0
+stand stand male 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10920
+pyromancer~
+pyromancer~
+A Pyromancer is here. (lvl 20)
+~
+~
+human~
+ABR 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 none
+-3 -3 -3 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10921
+geomancer~
+a geomancer~
+A Geomancer is here (level 20)
+~
+~
+human~
+ABR 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 none
+-3 -3 -3 0
+0 0 0 0
+stand stand none 150
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10922
+aeromancer~
+An Aeromancer~
+An Aeromancer is here. (level 20)
+~
+~
+human~
+ABR 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 none
+-3 -3 -3 0
+0 0 0 0
+stand stand male 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10923
+were-rat~
+a WereRat~
+A WereRat is here
+~
+~
+human~
+ABR 0 0 0
+25 25 51d8+253 25d10+85 8d3+17 none
+-7 -7 -7 -1
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10924
+wererabbit~
+a WereRabbit~
+A WereRabbit is here
+~
+~
+human~
+ABR 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 none
+-3 -3 -3 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10926
+werewolf~
+A Lycan~
+A Werewolf is here
+~
+~
+human~
+ABR 0 0 0
+25 25 51d8+253 25d10+85 8d3+17 none
+-7 -7 -7 -1
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10927
+abomination~
+abominationo~
+An Abomination is here
+~
+~
+human~
+ABR 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 none
+-3 -3 -3 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10928
+gnoll~
+a Gnoll~
+A Gnoll is here
+~
+~
+human~
+ABR 0 0 0
+25 25 51d8+253 25d10+85 8d3+17 none
+-7 -7 -7 -1
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10929
+orc~
+an orc~
+An orc is here
+~
+~
+human~
+ABR 0 0 0
+25 25 51d8+253 25d10+85 8d3+17 none
+-7 -7 -7 -1
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10930
+ogre~
+an ogre~
+An ogre is here
+~
+~
+human~
+ABR 0 0 0
+25 25 51d8+253 25d10+85 8d3+17 none
+-7 -7 -7 -1
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10931
+red archmage~
+a Red Robed ArchMage~
+A Red Robed ArchMage is here
+~
+~
+human~
+ABR 0 0 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+0 0 0 0
+stand stand male 300
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10932
+seer~
+A Seer~
+A Seer is here
+~
+~
+human~
+AB 0 0 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+0 0 0 0
+stand stand male 250
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10933
+white robed archmage~
+A white robed archmage~
+A white robed archmage is here.
+~
+~
+human~
+AB 0 1000 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10934
+black robed archmage~
+A black robed archmage~
+A black robed archmage is here.
+~
+~
+human~
+AB 0 0 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+0 0 0 0
+stand stand male 300
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10935
+herbalist~
+A High Level Herbalist~
+A High Level Herbalist is here
+~
+~
+human~
+AB 0 0 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+0 0 0 0
+stand stand male 300
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10936
+lesser demigod~
+lesser demigod~
+A red robed lesser demigod is here
+~
+~
+human~
+ABR 0 0 0
+35 35 71d11+354 35d10+85 11d3+22 none
+-13 -13 -13 -6
+0 0 0 0
+stand stand male 300
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10937
+demigod bard~
+a demigod bard~
+A lesser demigod bard is here
+~
+~
+human~
+ABR 0 250 0
+35 35 71d11+354 35d10+85 11d3+22 none
+-13 -13 -13 -6
+0 0 0 0
+stand stand male 250
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10938
+lesser demigod~
+lesser demigod~
+A Lesser Red Robed Demigod is here
+~
+~
+human~
+ABR 0 0 0
+35 35 71d11+354 35d10+85 11d3+22 none
+-13 -13 -13 -6
+0 0 0 0
+stand stand male 250
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10939
+white robed lesser demigod~
+a lesser demigod~
+A white robed lesser demigod is here
+~
+~
+human~
+ABR 0 1000 0
+35 35 71d11+354 35d10+85 11d3+22 none
+-13 -13 -13 -6
+0 0 0 0
+stand stand male 250
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10940
+black robed lesser demigod~
+a black robed lesser demigod~
+A black robed lesser demigod is here
+~
+~
+human~
+ABR 0 -1000 0
+35 35 71d11+354 35d10+85 11d3+22 none
+-13 -13 -13 -6
+0 0 0 0
+stand stand male 250
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10941
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 60 121d20+1213 60d10+85 20d3+35 none
+-30 -30 -30 -18
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#10942
+archangel~
+an Archangel~
+An Archangel is here.
+~
+~
+human~
+AB H 1000 0
+40 40 81d13+405 40d10+85 13d3+25 wrath
+-17 -17 -17 -9
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10943
+archangel~
+an Archangel~
+An Archangel is here.
+~
+~
+human~
+AB H 1000 0
+40 40 81d13+405 40d10+85 13d3+25 wrath
+-17 -17 -17 -9
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10944
+archangel~
+an Archangel~
+An Archangel is here.
+~
+~
+human~
+AB H 1000 0
+40 40 81d13+405 40d10+85 13d3+25 wrath
+-17 -17 -17 -9
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10945
+archangel~
+An Archangel~
+An Archangel is here.
+~
+~
+human~
+AB H 1000 0
+40 40 81d13+405 40d10+85 13d3+25 wrath
+-17 -17 -17 -9
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10947
+archdemon~
+An Archdemon~
+An Archdemon stands here.
+~
+~
+human~
+AB H -1000 0
+50 50 101d16+506 50d10+85 16d3+30 flame
+-24 -24 -24 -14
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10948
+archdemon~
+An Archdemon~
+An ArchDemon is here
+~
+~
+human~
+AB H -1000 0
+50 50 101d16+506 50d10+85 16d3+30 flame
+-24 -24 -24 -14
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10949
+archdemon~
+An Archdemon~
+An ArchDemon is here
+~
+~
+human~
+AB H -1000 0
+50 50 101d16+506 50d10+85 16d3+30 flame
+-24 -24 -24 -14
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10950
+archdemon~
+An Archdemon~
+An ArchDemon is here
+~
+~
+human~
+AB H -1000 0
+50 50 101d16+506 50d10+85 16d3+30 flame
+-24 -24 -24 -14
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10952
+elite fighter~
+an Elite Fighter~
+An Elite Fighter is here.
+~
+~
+human~
+AB H 0 0
+55 55 111d18+1111 55d10+85 18d3+32 beating
+-27 -27 -27 -16
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10953
+elite fighter~
+an Elite Fighter~
+An Elite Fighter is here.
+~
+~
+human~
+AB H 0 0
+55 55 111d18+1111 55d10+85 18d3+32 beating
+-27 -27 -27 -16
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10954
+elite fighter~
+an Elite Fighter~
+An Elite Fighter is here.
+~
+~
+human~
+AB H 0 0
+55 55 111d18+1111 55d10+85 18d3+32 beating
+-27 -27 -27 -16
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10955
+elite fighter~
+an Elite Fighter~
+An Elite Fighter is here.
+~
+~
+human~
+AB H 0 0
+55 55 111d18+1111 55d10+85 18d3+32 beating
+-27 -27 -27 -16
+0 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#10902
+guards dagger~
+a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x~
+A {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x is here.~
+steel~
+weapon ABG AN
+dagger 4 6 pierce BG
+8 2 150 P
+#10903
+bronze~
+a piece of Bronze Ore~
+A piece of Bronze Ore is here.~
+bronze~
+ore 0 A
+0 0 0 0 0
+0 100 2000 P
+#10904
+iron~
+a piece of Iron Ore~
+A piece of Iron Ore is here~
+iron~
+ore 0 A
+0 0 0 0 0
+0 100 4000 P
+#10905
+steel~
+a piece of Steel Ore~
+A piece of Steel Ore is here.~
+steel~
+ore 0 A
+0 0 0 0 0
+0 100 6000 P
+#10906
+silver~
+a piece of silver ore~
+A piece of silver ore is here~
+silver~
+ore 0 A
+0 0 0 0 0
+0 100 8000 P
+#10907
+gold~
+a piece of Gold Ore~
+A piece of Gold Ore is here.~
+gold~
+ore 0 A
+0 0 0 0 0
+0 100 10000 P
+#10908
+gemstone~
+a gem stone~
+A gem stone is here.~
+gem~
+ore 0 A
+0 0 0 0 0
+0 100 12000 P
+#10909
+ruby blood amulet~
+a {RRuby B{rl{Ro{ro{Rd {YA{ym{Yul{ye{Yt{x~
+A {RRuby B{rl{Ro{ro{Rd {YA{ym{Yul{ye{Yt{x is here.~
+ivory~
+armor AB AC
+CFG CFG CFG CFG 0
+0 3 50000 P
+F
+A 0 1 V
+A
+19 50
+A
+18 50
+#10910
+dragonscale shield~
+the {RR{re{Rd {cD{Cr{ca{Cg{co{Cn {GS{gc{Ga{gl{Ge {WS{wh{Wi{we{Wl{wd{x~
+The {RR{re{Rd {cD{Cr{ca{Cg{co{Cn {GS{gc{Ga{gl{Ge {WS{wh{Wi{we{Wl{wd{x is here.~
+dragonscale~
+armor AB AJ
+CFG CFG CFG CFG 0
+0 8 50000 P
+F
+A 0 1 H
+A
+19 50
+A
+18 50
+#10911
+decanter endless water~
+a {GDe{gc{Gan{gt{Ger {Wof {cE{Cn{cdle{Cs{cs {BW{ba{Bt{be{Br{x~
+A {GDe{gc{Gan{gt{Ger {Wof {cE{Cn{cdle{Cs{cs {BW{ba{Bt{be{Br{x is here.~
+unknown~
+drink A AO
+5000000 5000000 'water' 0 0
+0 3 50000 P
+#10912
+shadow aura~
+a {BS{bhado{Bw {WA{wu{Wr{wa{x~
+A {BS{bhado{Bw {WA{wu{Wr{wa{x is here.~
+unknown~
+armor AB AQ
+CFG CFG CFG CFG 0
+0 5 50000 P
+F
+A 0 1 D
+F
+A 0 1 G
+F
+A 0 1 C
+F
+A 0 1 F
+F
+A 0 1 E
+F
+A 0 1 Z
+A
+19 100
+A
+18 100
+#10913
+emerald breastplate~
+an {GEm{ge{Gr{ga{Gld {RB{rreast{RP{rlate{x~
+An {GEm{ge{Gr{ga{Gld {RB{rreast{RP{rlate{x is here.~
+unknown~
+armor AB AD
+CFG CFG CFG CFG 0
+0 5 50000 P
+F
+A 0 1 c
+A
+18 100
+A
+19 100
+#10914
+fountain water~
+a Fountain~
+A large marble fountain is here.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#10915
+healing pool~
+{gA {CM{ca{Cr{cb{Cl{ce {BH{We{Ba{Wl{Bi{Wn{Bg {gPool{x~
+{gA {CM{ca{Cr{cb{Cl{ce {BH{We{Ba{Wl{Bi{Wn{Bg {gPool is here.{x~
+marble~
+furniture AI 0
+BD EIJKN FIL EIJKN EIJKN
+0 15000 0 P
+#10916
+templar shield~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#10901
+Grove before Tower of Wizardry~
+~
+0 0 0
+D0
+~
+~
+0 0 10902
+D2
+~
+~
+0 0 3527
+S
+#10902
+inside Tower of Wizardry~
+~
+0 0 0
+D2
+~
+~
+0 0 10901
+D4
+~
+~
+0 0 10903
+D5
+~
+~
+0 0 10923
+S
+#10903
+second floor in tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10907
+D1
+~
+~
+0 0 10906
+D2
+~
+~
+0 0 10905
+D3
+~
+~
+0 0 10904
+D4
+~
+~
+0 0 10908
+D5
+~
+~
+0 0 10902
+S
+#10904
+second floor~
+~
+0 0 0
+D1
+~
+~
+0 0 10903
+S
+#10905
+second floor~
+~
+0 0 0
+D0
+~
+~
+0 0 10903
+S
+#10906
+second floor~
+~
+0 0 0
+D3
+~
+~
+0 0 10903
+S
+#10907
+second floor~
+~
+0 0 0
+D2
+~
+~
+0 0 10903
+S
+#10908
+third floor in Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10912
+D1
+~
+~
+0 0 10911
+D2
+~
+~
+0 0 10910
+D3
+~
+~
+0 0 10909
+D4
+~
+~
+0 0 10913
+D5
+~
+~
+0 0 10903
+S
+#10909
+third floor in Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 10908
+S
+#10910
+third floor in Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10908
+S
+#10911
+third floor in Tower~
+~
+0 0 0
+D3
+~
+~
+0 0 10908
+S
+#10912
+third floor in Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 10908
+S
+#10913
+fourth floor in tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10914
+D1
+~
+~
+0 0 10917
+D2
+~
+~
+0 0 10916
+D3
+~
+~
+0 0 10915
+D4
+~
+~
+0 0 10918
+D5
+~
+~
+0 0 10908
+S
+#10914
+fourth floor~
+~
+0 0 0
+D2
+~
+~
+0 0 10913
+S
+#10915
+fourth floor~
+~
+0 0 0
+D1
+~
+~
+0 0 10913
+S
+#10916
+fourth floor~
+~
+0 0 0
+D0
+~
+~
+0 0 10913
+S
+#10917
+fourth floor~
+~
+0 0 0
+D3
+~
+~
+0 0 10913
+S
+#10918
+fifth level of tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10922
+D1
+~
+~
+0 0 10921
+D2
+~
+~
+0 0 10920
+D3
+~
+~
+0 0 10919
+D4
+~
+~
+0 0 10931
+D5
+~
+~
+0 0 10913
+S
+#10919
+Fifth Level~
+~
+0 0 0
+D1
+~
+~
+0 0 10918
+S
+#10920
+Fifth Level~
+~
+0 0 0
+D0
+~
+~
+0 0 10918
+S
+#10921
+Fifth Level~
+~
+0 0 0
+D3
+~
+~
+0 0 10918
+S
+#10922
+Fifth Level~
+~
+0 0 0
+D2
+~
+~
+0 0 10918
+S
+#10923
+tunnel nexus~
+~
+0 0 0
+D0
+~
+~
+0 0 10924
+D1
+~
+~
+0 0 10929
+D4
+~
+~
+0 0 10902
+S
+#10924
+tunnel system~
+~
+0 0 0
+D0
+~
+~
+0 0 10926
+D2
+~
+~
+0 0 10923
+S
+#10925
+~
+~
+0 0 0
+D2
+~
+~
+0 0 10924
+S
+#10926
+tunnel system~
+~
+0 0 0
+D1
+~
+~
+0 0 10927
+D2
+~
+~
+0 0 10924
+S
+#10927
+tunnel system~
+~
+0 0 0
+D1
+~
+~
+0 0 10928
+D3
+~
+~
+0 0 10926
+S
+#10928
+tunnel system~
+~
+0 0 0
+D2
+~
+~
+0 0 10929
+D3
+~
+~
+0 0 10927
+S
+#10929
+tunnel system~
+~
+0 0 0
+D0
+~
+~
+0 0 10928
+D2
+~
+~
+0 0 10930
+D3
+~
+~
+0 0 10923
+S
+#10930
+tunnel system~
+~
+0 0 0
+D0
+~
+~
+0 0 10929
+S
+#10931
+sixth level of Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10935
+D1
+~
+~
+0 0 10934
+D2
+~
+~
+0 0 10933
+D3
+~
+~
+0 0 10932
+D4
+~
+~
+0 0 10936
+D5
+~
+~
+0 0 10918
+S
+#10932
+sixth level of Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 10931
+S
+#10933
+sixth level of Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10931
+S
+#10934
+sixth level of Tower~
+~
+0 0 0
+D3
+~
+~
+0 0 10931
+S
+#10935
+sixth level of Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 10931
+S
+#10936
+seventh tower level~
+~
+0 0 0
+D0
+~
+~
+0 0 10940
+D1
+~
+~
+0 0 10939
+D2
+~
+~
+0 0 10938
+D3
+~
+~
+0 0 10937
+D4
+~
+~
+0 0 10941
+D5
+~
+~
+0 0 10931
+S
+#10937
+seventh tower level~
+~
+0 0 0
+D1
+~
+~
+0 0 10936
+S
+#10938
+seventh tower level~
+~
+0 0 0
+D0
+~
+~
+0 0 10936
+S
+#10939
+seventh tower level~
+~
+0 0 0
+D3
+~
+~
+0 0 10936
+S
+#10940
+seventh tower level~
+~
+0 0 0
+D2
+~
+~
+0 0 10936
+S
+#10941
+eighth level of Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10943
+D1
+~
+~
+0 0 10944
+D2
+~
+~
+0 0 10945
+D3
+~
+~
+0 0 10942
+D4
+~
+~
+0 0 10946
+D5
+~
+~
+0 0 10936
+S
+#10942
+eighth tower level~
+~
+0 0 0
+D1
+~
+~
+0 0 10941
+S
+#10943
+eighth tower level~
+~
+0 0 0
+D2
+~
+~
+0 0 10941
+S
+#10944
+eighth tower level~
+~
+0 0 0
+D3
+~
+~
+0 0 10941
+S
+#10945
+eighth tower level~
+~
+0 0 0
+D0
+~
+~
+0 0 10941
+S
+#10946
+ninth level of Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10949
+D1
+~
+~
+0 0 10948
+D2
+~
+~
+0 0 10950
+D3
+~
+~
+0 0 10947
+D4
+~
+~
+0 0 10951
+D5
+~
+~
+0 0 10941
+S
+#10947
+Ninth level of Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 10946
+S
+#10948
+Ninth level of Tower~
+~
+0 0 0
+D3
+~
+~
+0 0 10946
+S
+#10949
+Ninth level of Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 10946
+S
+#10950
+Ninth level of Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10946
+S
+#10951
+Tenth Level of Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10953
+D1
+~
+~
+0 0 10954
+D2
+~
+~
+0 0 10955
+D3
+~
+~
+0 0 10952
+D5
+~
+~
+0 0 10946
+S
+#10952
+Tenth Level of Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 10951
+S
+#10953
+Tenth Level of Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 10951
+S
+#10954
+Tenth Level of Tower~
+~
+0 0 0
+D3
+~
+~
+0 0 10951
+S
+#10955
+Tenth Level of Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 10951
+S
+#0
+
+
+
+#SPECIALS
+M 10902 spec_guard
+M 10904 spec_cast_mage
+M 10905 spec_cast_mage
+M 10907 spec_cast_mage
+M 10913 spec_cast_mage
+M 10914 spec_cast_mage
+M 10915 spec_cast_mage
+M 10916 spec_cast_mage
+M 10917 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 10901 1 10901 1 Load the Tower Gardener
+M 0 10902 4 10902 4 Load Tower Guard
+E 0 10902 0 16 A {gt{go{gw{ge{gr {rg{ru{ra{rr{rd{rs {cd{ca{cg{cg{ce{cr{x is loaded wielded of Tower Guard
+M 0 10902 4 10902 4 Load Tower Guard
+E 0 10902 0 16 A {gt{go{gw{ge{gr {rg{ru{ra{rr{rd{rs {cd{ca{cg{cg{ce{cr{x is loaded wielded of Tower Guard
+M 0 10902 4 10902 4 Load Tower Guard
+E 0 10902 0 16 A {gt{go{gw{ge{gr {rg{ru{ra{rr{rd{rs {cd{ca{cg{cg{ce{cr{x is loaded wielded of Tower Guard
+M 0 10902 4 10902 4 Load Tower Guard
+E 0 10902 0 16 A {gt{go{gw{ge{gr {rg{ru{ra{rr{rd{rs {cd{ca{cg{cg{ce{cr{x is loaded wielded of Tower Guard
+M 0 10903 3 10903 3 Load a 15th level apprentice
+M 0 10903 3 10903 3 Load a 15th level apprentice
+M 0 10903 3 10903 3 Load a 15th level apprentice
+M 0 10904 3 10904 3 Load a 14th level apprentice
+M 0 10904 3 10904 3 Load a 14th level apprentice
+M 0 10904 3 10904 3 Load a 14th level apprentice
+M 0 10905 3 10905 3 Load A red robed mage
+M 0 10905 3 10905 3 Load A red robed mage
+M 0 10905 3 10905 3 Load A red robed mage
+M 0 10906 3 10906 3 Load a black robed mage
+M 0 10906 3 10906 3 Load a black robed mage
+M 0 10906 3 10906 3 Load a black robed mage
+M 0 10907 3 10907 3 Load a white robed mage
+M 0 10907 3 10907 3 Load a white robed mage
+M 0 10907 3 10907 3 Load a white robed mage
+M 0 10908 3 10908 3 Load A red robed mage
+M 0 10908 3 10908 3 Load A red robed mage
+M 0 10908 3 10908 3 Load A red robed mage
+M 0 10909 3 10909 3 Load An Alchemist
+M 0 10909 3 10909 3 Load An Alchemist
+M 0 10909 3 10909 3 Load An Alchemist
+M 0 10910 3 10910 3 Load An Herbalist
+M 0 10910 3 10910 3 Load An Herbalist
+M 0 10910 3 10910 3 Load An Herbalist
+M 0 10911 3 10911 3 Load An Invoker
+M 0 10911 3 10911 3 Load An Invoker
+M 0 10911 3 10911 3 Load An Invoker
+M 0 10912 3 10912 3 Load A Transmuter
+M 0 10912 3 10912 3 Load A Transmuter
+M 0 10912 3 10912 3 Load A Transmuter
+M 0 10913 3 10913 3 Load an abjurer
+M 0 10913 3 10913 3 Load an abjurer
+M 0 10913 3 10913 3 Load an abjurer
+M 0 10914 3 10914 3 Load an Illusionist
+M 0 10914 3 10914 3 Load an Illusionist
+M 0 10914 3 10914 3 Load an Illusionist
+M 0 10915 3 10915 3 Load A Conjurer
+M 0 10915 3 10915 3 Load A Conjurer
+M 0 10915 3 10915 3 Load A Conjurer
+M 0 10916 3 10916 3 Load enchanter
+M 0 10916 3 10916 3 Load enchanter
+M 0 10916 3 10916 3 Load enchanter
+M 0 10917 3 10917 3 Load Diviner
+M 0 10917 3 10917 3 Load Diviner
+M 0 10917 3 10917 3 Load Diviner
+M 0 10918 4 10918 4 Load A Wokanist
+M 0 10918 4 10918 4 Load A Wokanist
+M 0 10918 4 10918 4 Load A Wokanist
+M 0 10918 4 10918 4 Load A Wokanist
+M 0 10919 4 10919 4 Load A Bard
+M 0 10919 4 10919 4 Load A Bard
+M 0 10919 4 10919 4 Load A Bard
+M 0 10919 4 10919 4 Load A Bard
+M 0 10920 4 10920 4 Load pyromancer
+M 0 10920 4 10920 4 Load pyromancer
+M 0 10920 4 10920 4 Load pyromancer
+M 0 10920 4 10920 4 Load pyromancer
+M 0 10921 4 10921 4 Load a geomancer
+M 0 10921 4 10921 4 Load a geomancer
+M 0 10921 4 10921 4 Load a geomancer
+M 0 10921 4 10921 4 Load a geomancer
+M 0 10922 4 10922 4 Load An Aeromancer
+M 0 10922 4 10922 4 Load An Aeromancer
+M 0 10922 4 10922 4 Load An Aeromancer
+M 0 10922 4 10922 4 Load An Aeromancer
+M 0 10923 2 10923 2 Load a WereRat
+M 0 10923 2 10923 2 Load a WereRat
+M 0 10924 2 10924 2 Load a WereRabbit
+M 0 10924 2 10924 2 Load a WereRabbit
+M 0 10926 2 10926 2 Load A Lycan
+M 0 10926 2 10926 2 Load A Lycan
+M 0 10927 2 10927 2 Load abominationo
+M 0 10927 2 10927 2 Load abominationo
+M 0 10928 2 10928 2 Load a Gnoll
+M 0 10928 2 10928 2 Load a Gnoll
+M 0 10929 2 10929 2 Load an orc
+M 0 10929 2 10929 2 Load an orc
+M 0 10930 2 10930 2 Load an ogre
+M 0 10930 2 10930 2 Load an ogre
+M 0 10931 4 10931 4 Load a Red Robed ArchMage
+M 0 10931 4 10931 4 Load a Red Robed ArchMage
+M 0 10931 4 10931 4 Load a Red Robed ArchMage
+M 0 10931 4 10931 4 Load a Red Robed ArchMage
+M 0 10932 4 10932 4 Load A Seer
+M 0 10932 4 10932 4 Load A Seer
+M 0 10932 4 10932 4 Load A Seer
+M 0 10932 4 10932 4 Load A Seer
+M 0 10933 4 10933 4 Load A white robed archmage
+M 0 10933 4 10933 4 Load A white robed archmage
+M 0 10933 4 10933 4 Load A white robed archmage
+M 0 10933 4 10933 4 Load A white robed archmage
+M 0 10934 4 10934 4 Load A black robed archmage
+M 0 10934 4 10934 4 Load A black robed archmage
+M 0 10934 4 10934 4 Load A black robed archmage
+M 0 10934 4 10934 4 Load A black robed archmage
+M 0 10935 4 10935 4 Load A High Level Herbalist
+M 0 10935 4 10935 4 Load A High Level Herbalist
+M 0 10935 4 10935 4 Load A High Level Herbalist
+M 0 10935 4 10935 4 Load A High Level Herbalist
+M 0 10936 4 10936 4 Load lesser demigod
+M 0 10936 4 10936 4 Load lesser demigod
+M 0 10936 4 10936 4 Load lesser demigod
+M 0 10936 4 10936 4 Load lesser demigod
+M 0 10937 4 10937 4 Load a demigod bard
+M 0 10937 4 10937 4 Load a demigod bard
+M 0 10937 4 10937 4 Load a demigod bard
+M 0 10937 4 10937 4 Load a demigod bard
+M 0 10938 4 10938 4 Load lesser demigod
+M 0 10938 4 10938 4 Load lesser demigod
+M 0 10938 4 10938 4 Load lesser demigod
+M 0 10938 4 10938 4 Load lesser demigod
+M 0 10939 4 10939 4 Load a lesser demigod
+M 0 10939 4 10939 4 Load a lesser demigod
+M 0 10939 4 10939 4 Load a lesser demigod
+M 0 10939 4 10939 4 Load a lesser demigod
+M 0 10940 4 10940 4 Load a black robed lesser demigod
+M 0 10940 4 10940 4 Load a black robed lesser demigod
+M 0 10940 4 10940 4 Load a black robed lesser demigod
+M 0 10940 4 10940 4 Load a black robed lesser demigod
+M 0 10942 5 10942 5 Load an Archangel
+M 0 10942 5 10942 5 Load an Archangel
+M 0 10942 5 10942 5 Load an Archangel
+M 0 10942 5 10942 5 Load an Archangel
+M 0 10942 5 10942 5 Load an Archangel
+M 0 10943 5 10943 5 Load an Archangel
+M 0 10943 5 10943 5 Load an Archangel
+M 0 10943 5 10943 5 Load an Archangel
+M 0 10943 5 10943 5 Load an Archangel
+M 0 10943 5 10943 5 Load an Archangel
+M 0 10944 5 10944 5 Load an Archangel
+M 0 10944 5 10944 5 Load an Archangel
+M 0 10944 5 10944 5 Load an Archangel
+M 0 10944 5 10944 5 Load an Archangel
+M 0 10944 5 10944 5 Load an Archangel
+M 0 10945 5 10945 5 Load An Archangel
+M 0 10945 5 10945 5 Load An Archangel
+M 0 10945 5 10945 5 Load An Archangel
+M 0 10945 5 10945 5 Load An Archangel
+M 0 10945 5 10945 5 Load An Archangel
+M 0 10947 5 10947 5 Load An Archdemon
+M 0 10947 5 10947 5 Load An Archdemon
+M 0 10947 5 10947 5 Load An Archdemon
+M 0 10947 5 10947 5 Load An Archdemon
+M 0 10947 5 10947 5 Load An Archdemon
+M 0 10948 5 10948 5 Load An Archdemon
+M 0 10948 5 10948 5 Load An Archdemon
+M 0 10948 5 10948 5 Load An Archdemon
+M 0 10948 5 10948 5 Load An Archdemon
+M 0 10948 5 10948 5 Load An Archdemon
+M 0 10949 5 10949 5 Load An Archdemon
+M 0 10949 5 10949 5 Load An Archdemon
+M 0 10949 5 10949 5 Load An Archdemon
+M 0 10949 5 10949 5 Load An Archdemon
+M 0 10949 5 10949 5 Load An Archdemon
+M 0 10950 5 10950 5 Load An Archdemon
+M 0 10950 5 10950 5 Load An Archdemon
+M 0 10950 5 10950 5 Load An Archdemon
+M 0 10950 5 10950 5 Load An Archdemon
+M 0 10950 5 10950 5 Load An Archdemon
+M 0 10952 5 10952 5 Load an Elite Fighter
+M 0 10952 5 10952 5 Load an Elite Fighter
+M 0 10952 5 10952 5 Load an Elite Fighter
+M 0 10952 5 10952 5 Load an Elite Fighter
+M 0 10952 5 10952 5 Load an Elite Fighter
+M 0 10953 5 10953 5 Load an Elite Fighter
+M 0 10953 5 10953 5 Load an Elite Fighter
+M 0 10953 5 10953 5 Load an Elite Fighter
+M 0 10953 5 10953 5 Load an Elite Fighter
+M 0 10953 5 10953 5 Load an Elite Fighter
+M 0 10954 5 10954 5 Load an Elite Fighter
+M 0 10954 5 10954 5 Load an Elite Fighter
+M 0 10954 5 10954 5 Load an Elite Fighter
+M 0 10954 5 10954 5 Load an Elite Fighter
+M 0 10954 5 10954 5 Load an Elite Fighter
+M 0 10955 5 10955 5 Load an Elite Fighter
+M 0 10955 5 10955 5 Load an Elite Fighter
+M 0 10955 5 10955 5 Load an Elite Fighter
+M 0 10955 5 10955 5 Load an Elite Fighter
+M 0 10955 5 10955 5 Load an Elite Fighter
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

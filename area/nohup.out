@@ -1,0 +1,2823 @@
+Thu Aug  6 00:31:44 2009 :: Loading configuration settings from ../area/qmconfig.rc.
+Thu Aug  6 00:31:44 2009 :: Set IP address to 0.0.0.0
+Thu Aug  6 00:31:44 2009 :: Loading area immort.are
+Thu Aug  6 00:31:44 2009 :: Loading area ofcol2.are
+Thu Aug  6 00:31:44 2009 :: Loading area shire.are
+Thu Aug  6 00:31:44 2009 :: [*****] FILE: midgaard.are LINE: 2513
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: CHECK_POS : item_type == -1 < 0
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loading area plains.are
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loading area arachnos.are
+Thu Aug  6 00:31:44 2009 :: Loading area astral.are
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loading area catacomb.are
+Thu Aug  6 00:31:44 2009 :: Loading area chapel.are
+Thu Aug  6 00:31:44 2009 :: Loading area daycare.are
+Thu Aug  6 00:31:44 2009 :: Loading area draconia.are
+Thu Aug  6 00:31:44 2009 :: Loading area dream.are
+Thu Aug  6 00:31:44 2009 :: Loading area drow.are
+Thu Aug  6 00:31:44 2009 :: Loading area thalos.are
+Thu Aug  6 00:31:44 2009 :: Loading area dwarven.are
+Thu Aug  6 00:31:44 2009 :: Loading area dylan.are
+Thu Aug  6 00:31:44 2009 :: Loading area eastern.are
+Thu Aug  6 00:31:44 2009 :: Loading area galaxy.are
+Thu Aug  6 00:31:44 2009 :: Loading area gnome.are
+Thu Aug  6 00:31:44 2009 :: Loading area grave.are
+Thu Aug  6 00:31:44 2009 :: Loading area grove.are
+Thu Aug  6 00:31:44 2009 :: Loading area hitower.are
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loading area mahntor.are
+Thu Aug  6 00:31:44 2009 :: Loading area marsh.are
+Thu Aug  6 00:31:44 2009 :: Loading area mega1.are
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loading area mirror.are
+Thu Aug  6 00:31:44 2009 :: Loading area mobfact.are
+Thu Aug  6 00:31:44 2009 :: Loading area moria.are
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loading area nirvana.are
+Thu Aug  6 00:31:44 2009 :: Loading area ofcol.are
+Thu Aug  6 00:31:44 2009 :: Loading area olympus.are
+Thu Aug  6 00:31:44 2009 :: Loading area pyramid.are
+Thu Aug  6 00:31:44 2009 :: Loading area quifael.are
+Thu Aug  6 00:31:44 2009 :: Loading area sewer.are
+Thu Aug  6 00:31:44 2009 :: Loading area redferne.are
+Thu Aug  6 00:31:44 2009 :: Loading area school.are
+Thu Aug  6 00:31:44 2009 :: Loading area smurf.are
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loading area trollden.are
+Thu Aug  6 00:31:44 2009 :: Loading area valley.are
+Thu Aug  6 00:31:44 2009 :: Loading area wyvern.are
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loading area ciquala2.are
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Fix_exits: 9594:2 -> 6100:0 -> 11212.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Fix_exits: 21000:0 -> 21001:2 -> 21004.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Fix_exits: 10925:2 -> 10924:0 -> 10926.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Fix_exits: 9141:1 -> 3001:3 -> 3364.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Fix_exits: 3014:4 -> 15836:5 -> 3025.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  9232)(Level 200) a rainbow warrior
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  9226)(Level 29) a flame lance
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  9226)(Level 200) the Blue Flame
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  9230)(Level 20) the Shock Whip
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  9227)(Level 200) the Magneto
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  9227)(Level 28) an icicle
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  9228)(Level 200) the Ice Bandit
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  9228)(Level 24) the avalanche
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  9229)(Level 200) the Rock Monster
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  9229)(Level 23) the morning star
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  9230)(Level 200) the Hurricane
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  9203)(Level 29) a fiery dagger
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  9209)(Level 200) the Fire Ruler
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  9207)(Level 25) a sparking lightning sword
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  9211)(Level 200) The Lightning Ruler
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  9207)(Level 200) a large elemental
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2119)(Level 11) a broken bottle
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2103)(Level 175) the Troll gang leader
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2106)(Level  9) a stiletto
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2110)(Level 175) the Ogre gang leader
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:31:44 2009 :: Check Levels:
+Thu Aug  6 00:31:44 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:31:44 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:31:44 2009 :: ROM is ready to rock on port 20009 (0.0.0.0).
+Thu Aug  6 00:31:45 2009 :: IMC: Loading IMC2 command table...
+Thu Aug  6 00:31:45 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:31:45 2009 :: IMC: Loading IMC2 help file...
+Thu Aug  6 00:31:45 2009 :: IMC: Loading IMC2 color table...
+Thu Aug  6 00:31:45 2009 :: IMC: Loading IMC2 who template...
+Thu Aug  6 00:31:45 2009 :: IMC: imcfread_word: EOF encountered on read.
+Thu Aug  6 00:31:45 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:31:45 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:31:45 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:31:45 2009 :: IMC: Loading channels...
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:31:45 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:31:45 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:31:45 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:31:45 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:31:45 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:31:51 2009 :: Sock.sinaddr:  127.0.0.1
+Thu Aug  6 00:31:58 2009 :: Loading Landren.
+Thu Aug  6 00:32:10 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:32:10 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:32:10 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:32:22 2009 :: Loading configuration settings from ../area/qmconfig.rc.
+Thu Aug  6 00:32:22 2009 :: Set IP address to 0.0.0.0
+Thu Aug  6 00:32:22 2009 :: Loading area immort.are
+Thu Aug  6 00:32:22 2009 :: Loading area ofcol2.are
+Thu Aug  6 00:32:22 2009 :: Loading area shire.are
+Thu Aug  6 00:32:22 2009 :: [*****] FILE: midgaard.are LINE: 2513
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: CHECK_POS : item_type == -1 < 0
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loading area plains.are
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loading area arachnos.are
+Thu Aug  6 00:32:22 2009 :: Loading area astral.are
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loading area catacomb.are
+Thu Aug  6 00:32:22 2009 :: Loading area chapel.are
+Thu Aug  6 00:32:22 2009 :: Loading area daycare.are
+Thu Aug  6 00:32:22 2009 :: Loading area draconia.are
+Thu Aug  6 00:32:22 2009 :: Loading area dream.are
+Thu Aug  6 00:32:22 2009 :: Loading area drow.are
+Thu Aug  6 00:32:22 2009 :: Loading area thalos.are
+Thu Aug  6 00:32:22 2009 :: Loading area dwarven.are
+Thu Aug  6 00:32:22 2009 :: Loading area dylan.are
+Thu Aug  6 00:32:22 2009 :: Loading area eastern.are
+Thu Aug  6 00:32:22 2009 :: Loading area galaxy.are
+Thu Aug  6 00:32:22 2009 :: Loading area gnome.are
+Thu Aug  6 00:32:22 2009 :: Loading area grave.are
+Thu Aug  6 00:32:22 2009 :: Loading area grove.are
+Thu Aug  6 00:32:22 2009 :: Loading area hitower.are
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loading area mahntor.are
+Thu Aug  6 00:32:22 2009 :: Loading area marsh.are
+Thu Aug  6 00:32:22 2009 :: Loading area mega1.are
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loading area mirror.are
+Thu Aug  6 00:32:22 2009 :: Loading area mobfact.are
+Thu Aug  6 00:32:22 2009 :: Loading area moria.are
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loading area nirvana.are
+Thu Aug  6 00:32:22 2009 :: Loading area ofcol.are
+Thu Aug  6 00:32:22 2009 :: Loading area olympus.are
+Thu Aug  6 00:32:22 2009 :: Loading area pyramid.are
+Thu Aug  6 00:32:22 2009 :: Loading area quifael.are
+Thu Aug  6 00:32:22 2009 :: Loading area sewer.are
+Thu Aug  6 00:32:22 2009 :: Loading area redferne.are
+Thu Aug  6 00:32:22 2009 :: Loading area school.are
+Thu Aug  6 00:32:22 2009 :: Loading area smurf.are
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loading area trollden.are
+Thu Aug  6 00:32:22 2009 :: Loading area valley.are
+Thu Aug  6 00:32:22 2009 :: Loading area wyvern.are
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loading area ciquala2.are
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Fix_exits: 9594:2 -> 6100:0 -> 11212.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Fix_exits: 21000:0 -> 21001:2 -> 21004.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Fix_exits: 10925:2 -> 10924:0 -> 10926.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Fix_exits: 9141:1 -> 3001:3 -> 3364.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Fix_exits: 3014:4 -> 15836:5 -> 3025.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  9232)(Level 200) a rainbow warrior
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  9226)(Level 29) a flame lance
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  9226)(Level 200) the Blue Flame
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  9230)(Level 20) the Shock Whip
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  9227)(Level 200) the Magneto
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  9227)(Level 28) an icicle
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  9228)(Level 200) the Ice Bandit
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  9228)(Level 24) the avalanche
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  9229)(Level 200) the Rock Monster
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  9229)(Level 23) the morning star
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  9230)(Level 200) the Hurricane
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  9203)(Level 29) a fiery dagger
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  9209)(Level 200) the Fire Ruler
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  9207)(Level 25) a sparking lightning sword
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  9211)(Level 200) The Lightning Ruler
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  9207)(Level 200) a large elemental
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2119)(Level 11) a broken bottle
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2103)(Level 175) the Troll gang leader
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2106)(Level  9) a stiletto
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2110)(Level 175) the Ogre gang leader
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:32:22 2009 :: Check Levels:
+Thu Aug  6 00:32:22 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:32:22 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:32:22 2009 :: ROM is ready to rock on port 20009 (0.0.0.0).
+Thu Aug  6 00:32:22 2009 :: IMC: Loading IMC2 command table...
+Thu Aug  6 00:32:22 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:32:22 2009 :: IMC: Loading IMC2 help file...
+Thu Aug  6 00:32:22 2009 :: IMC: Loading IMC2 color table...
+Thu Aug  6 00:32:22 2009 :: IMC: Loading IMC2 who template...
+Thu Aug  6 00:32:22 2009 :: IMC: imcfread_word: EOF encountered on read.
+Thu Aug  6 00:32:22 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:32:22 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:32:22 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:32:22 2009 :: IMC: Loading channels...
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:32:22 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:32:22 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:32:22 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:32:23 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:32:23 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:32:26 2009 :: Sock.sinaddr:  127.0.0.1
+Thu Aug  6 00:32:32 2009 :: Loading Landren.
+Thu Aug  6 00:32:48 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:32:48 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:32:48 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:33:13 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:33:13 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:33:13 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:33:13 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:33:13 2009 :: IMC: Loading channels...
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:33:13 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:33:13 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:33:13 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:33:13 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:33:13 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:33:24 2009 :: EOF encountered on read.
+Thu Aug  6 00:33:24 2009 :: Closing link to Landren.
+Thu Aug  6 00:33:38 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:33:38 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:33:38 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:34:03 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:34:03 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:34:03 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:34:03 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:34:03 2009 :: IMC: Loading channels...
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:34:03 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:34:03 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:34:03 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:34:04 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:34:04 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:34:29 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:34:29 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:34:29 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:34:54 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:34:54 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:34:54 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:34:54 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:34:54 2009 :: IMC: Loading channels...
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:34:54 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:34:54 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:34:54 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:34:54 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:34:54 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:35:20 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:35:20 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:35:20 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:35:44 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:35:44 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:35:44 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:35:44 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:35:44 2009 :: IMC: Loading channels...
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:35:44 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:35:44 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:35:44 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:35:45 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:35:45 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:36:10 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:36:10 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:36:10 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:36:35 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:36:35 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:36:35 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:36:35 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:36:35 2009 :: IMC: Loading channels...
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:36:35 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:36:35 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:36:35 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:36:36 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:36:36 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:37:01 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:37:01 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:37:01 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:37:26 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:37:26 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:37:26 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:37:26 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:37:26 2009 :: IMC: Loading channels...
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:37:26 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:37:26 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:37:26 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:37:26 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:37:26 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:37:51 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:37:51 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:37:51 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:38:16 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:38:16 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:38:16 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:38:16 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:38:16 2009 :: IMC: Loading channels...
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:38:16 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:38:16 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:38:16 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:38:17 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:38:17 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:38:42 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:38:42 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:38:42 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:39:07 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:39:07 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:39:07 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:39:07 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:39:07 2009 :: IMC: Loading channels...
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:39:07 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:39:07 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:39:07 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:39:07 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:39:07 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:39:32 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:39:32 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:39:32 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:39:50 2009 :: Sock.sinaddr:  127.0.0.1
+Thu Aug  6 00:39:56 2009 :: Loading Landren.
+Thu Aug  6 00:39:56 2009 :: Landren@localhost reconnected.
+Thu Aug  6 00:39:57 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:39:57 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:39:57 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:39:57 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:39:57 2009 :: IMC: Loading channels...
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:39:57 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:39:57 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:39:57 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:39:58 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:39:58 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:40:02 2009 :: Log Landren: copyover
+Thu Aug  6 00:40:02 2009 :: Loading configuration settings from ../area/qmconfig.rc.
+Thu Aug  6 00:40:02 2009 :: Loading area immort.are
+Thu Aug  6 00:40:02 2009 :: Loading area ofcol2.are
+Thu Aug  6 00:40:02 2009 :: Loading area shire.are
+Thu Aug  6 00:40:02 2009 :: [*****] FILE: midgaard.are LINE: 2513
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: CHECK_POS : item_type == -1 < 0
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loading area plains.are
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loading area arachnos.are
+Thu Aug  6 00:40:02 2009 :: Loading area astral.are
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loading area catacomb.are
+Thu Aug  6 00:40:02 2009 :: Loading area chapel.are
+Thu Aug  6 00:40:02 2009 :: Loading area daycare.are
+Thu Aug  6 00:40:02 2009 :: Loading area draconia.are
+Thu Aug  6 00:40:02 2009 :: Loading area dream.are
+Thu Aug  6 00:40:02 2009 :: Loading area drow.are
+Thu Aug  6 00:40:02 2009 :: Loading area thalos.are
+Thu Aug  6 00:40:02 2009 :: Loading area dwarven.are
+Thu Aug  6 00:40:02 2009 :: Loading area dylan.are
+Thu Aug  6 00:40:02 2009 :: Loading area eastern.are
+Thu Aug  6 00:40:02 2009 :: Loading area galaxy.are
+Thu Aug  6 00:40:02 2009 :: Loading area gnome.are
+Thu Aug  6 00:40:02 2009 :: Loading area grave.are
+Thu Aug  6 00:40:02 2009 :: Loading area grove.are
+Thu Aug  6 00:40:02 2009 :: Loading area hitower.are
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loading area mahntor.are
+Thu Aug  6 00:40:02 2009 :: Loading area marsh.are
+Thu Aug  6 00:40:02 2009 :: Loading area mega1.are
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loading area mirror.are
+Thu Aug  6 00:40:02 2009 :: Loading area mobfact.are
+Thu Aug  6 00:40:02 2009 :: Loading area moria.are
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loading area nirvana.are
+Thu Aug  6 00:40:02 2009 :: Loading area ofcol.are
+Thu Aug  6 00:40:02 2009 :: Loading area olympus.are
+Thu Aug  6 00:40:02 2009 :: Loading area pyramid.are
+Thu Aug  6 00:40:02 2009 :: Loading area quifael.are
+Thu Aug  6 00:40:02 2009 :: Loading area sewer.are
+Thu Aug  6 00:40:02 2009 :: Loading area redferne.are
+Thu Aug  6 00:40:02 2009 :: Loading area school.are
+Thu Aug  6 00:40:02 2009 :: Loading area smurf.are
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loading area trollden.are
+Thu Aug  6 00:40:02 2009 :: Loading area valley.are
+Thu Aug  6 00:40:02 2009 :: Loading area wyvern.are
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loading area ciquala2.are
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Fix_exits: 9594:2 -> 6100:0 -> 11212.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Fix_exits: 21000:0 -> 21001:2 -> 21004.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Fix_exits: 10925:2 -> 10924:0 -> 10926.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Fix_exits: 9141:1 -> 3001:3 -> 3364.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Fix_exits: 3014:4 -> 15836:5 -> 3025.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  9232)(Level 200) a rainbow warrior
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  9226)(Level 29) a flame lance
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  9226)(Level 200) the Blue Flame
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  9230)(Level 20) the Shock Whip
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  9227)(Level 200) the Magneto
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  9227)(Level 28) an icicle
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  9228)(Level 200) the Ice Bandit
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  9228)(Level 24) the avalanche
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  9229)(Level 200) the Rock Monster
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  9229)(Level 23) the morning star
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  9230)(Level 200) the Hurricane
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  9203)(Level 29) a fiery dagger
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  9209)(Level 200) the Fire Ruler
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  9207)(Level 25) a sparking lightning sword
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  9211)(Level 200) The Lightning Ruler
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  9207)(Level 200) a large elemental
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2119)(Level 11) a broken bottle
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2103)(Level 175) the Troll gang leader
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2106)(Level  9) a stiletto
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2110)(Level 175) the Ogre gang leader
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:40:02 2009 :: Check Levels:
+Thu Aug  6 00:40:02 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 00:40:02 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 00:40:02 2009 :: ROM is ready to rock on port 20009 (0.0.0.0).
+Thu Aug  6 00:40:02 2009 :: IMC: Loading IMC2 command table...
+Thu Aug  6 00:40:02 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:40:02 2009 :: IMC: Loading IMC2 help file...
+Thu Aug  6 00:40:02 2009 :: IMC: Loading IMC2 color table...
+Thu Aug  6 00:40:02 2009 :: IMC: Loading IMC2 who template...
+Thu Aug  6 00:40:02 2009 :: IMC: imcfread_word: EOF encountered on read.
+Thu Aug  6 00:40:02 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:40:02 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:40:02 2009 :: IMC: Loading channels...
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:40:02 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:40:02 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:40:02 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:40:02 2009 :: Copyover recovery initiated
+Thu Aug  6 00:40:02 2009 :: Loading Landren.
+Thu Aug  6 00:40:23 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:40:23 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:40:23 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:40:48 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:40:48 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:40:48 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:40:48 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:40:48 2009 :: IMC: Loading channels...
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:40:48 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:40:48 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:40:48 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:40:48 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:40:48 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:41:14 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:41:14 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:41:14 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:41:39 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:41:39 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:41:39 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:41:39 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:41:39 2009 :: IMC: Loading channels...
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:41:39 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:41:39 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:41:39 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:41:39 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:41:39 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:42:04 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:42:04 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:42:04 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:42:29 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:42:29 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:42:29 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:42:29 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:42:29 2009 :: IMC: Loading channels...
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:42:29 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:42:29 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:42:29 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:42:30 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:42:30 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:42:55 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:42:55 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:42:55 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:43:20 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:43:20 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:43:20 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:43:20 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:43:20 2009 :: IMC: Loading channels...
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:43:20 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:43:20 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:43:20 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:43:20 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:43:20 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:43:46 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:43:46 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:43:46 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:44:10 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:44:10 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:44:10 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:44:10 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:44:10 2009 :: IMC: Loading channels...
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:44:10 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:44:10 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:44:10 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:44:11 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:44:11 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:44:36 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:44:36 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:44:36 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:45:01 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:45:01 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:45:01 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:45:01 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:45:01 2009 :: IMC: Loading channels...
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:45:01 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:45:01 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:45:01 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:45:01 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:45:01 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:45:27 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:45:27 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:45:27 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:45:51 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:45:51 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:45:51 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:45:51 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:45:51 2009 :: IMC: Loading channels...
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:45:51 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:45:51 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:45:51 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:45:52 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:45:52 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:46:18 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:46:18 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:46:18 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:46:42 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:46:42 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:46:42 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:46:42 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:46:42 2009 :: IMC: Loading channels...
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:46:42 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:46:42 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:46:42 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:46:43 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:46:43 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:47:08 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:47:08 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:47:08 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:47:33 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:47:33 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:47:33 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:47:33 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:47:33 2009 :: IMC: Loading channels...
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:47:33 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:47:33 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:47:33 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:47:33 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:47:33 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:47:59 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:47:59 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:47:59 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:48:24 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:48:24 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:48:24 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:48:24 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:48:24 2009 :: IMC: Loading channels...
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:48:24 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:48:24 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:48:24 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:48:24 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:48:24 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:48:49 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:48:49 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:48:49 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:49:14 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:49:14 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:49:14 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:49:14 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:49:14 2009 :: IMC: Loading channels...
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:49:14 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:49:14 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:49:14 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:49:15 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:49:15 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:49:40 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:49:40 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:49:40 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:50:05 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:50:05 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:50:05 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:50:05 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:50:05 2009 :: IMC: Loading channels...
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:50:05 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:50:05 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:50:05 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:50:05 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:50:05 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:50:30 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:50:30 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:50:30 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:50:55 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:50:55 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:50:55 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:50:55 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:50:55 2009 :: IMC: Loading channels...
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:50:55 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:50:55 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:50:55 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:50:56 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:50:56 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:51:14 2009 :: Landren has quit.
+Thu Aug  6 00:51:21 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:51:21 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:51:21 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:51:46 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:51:46 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:51:46 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:51:46 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:51:46 2009 :: IMC: Loading channels...
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:51:46 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:51:46 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:51:46 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:51:46 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:51:46 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:52:12 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:52:12 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:52:12 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:52:37 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:52:37 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:52:37 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:52:37 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:52:37 2009 :: IMC: Loading channels...
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:52:37 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:52:37 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:52:37 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:52:37 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:52:37 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:53:03 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:53:03 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:53:03 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:53:27 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:53:27 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:53:27 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:53:27 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:53:27 2009 :: IMC: Loading channels...
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:53:27 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:53:27 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:53:27 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:53:28 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:53:28 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:53:53 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:53:53 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:53:53 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:54:18 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:54:18 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:54:18 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:54:18 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:54:18 2009 :: IMC: Loading channels...
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:54:18 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:54:18 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:54:18 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:54:19 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:54:19 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:54:44 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:54:44 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:54:44 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:55:09 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:55:09 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:55:09 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:55:09 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:55:09 2009 :: IMC: Loading channels...
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:55:09 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:55:09 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:55:09 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:55:10 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:55:10 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:55:35 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:55:35 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:55:35 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:56:00 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:56:00 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:56:00 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:56:00 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:56:00 2009 :: IMC: Loading channels...
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:56:00 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:56:00 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:56:00 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:56:00 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:56:00 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:56:25 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:56:25 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:56:25 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:56:50 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:56:50 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:56:50 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:56:50 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:56:50 2009 :: IMC: Loading channels...
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:56:50 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:56:50 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:56:50 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:56:51 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:56:51 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:57:16 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:57:16 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:57:16 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:57:41 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:57:41 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:57:41 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:57:41 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:57:41 2009 :: IMC: Loading channels...
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:57:41 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:57:41 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:57:41 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:57:41 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:57:41 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:58:07 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:58:07 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:58:07 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:58:32 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:58:32 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:58:32 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:58:32 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:58:32 2009 :: IMC: Loading channels...
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:58:32 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:58:32 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:58:32 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:58:32 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:58:32 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:58:57 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:58:57 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:58:57 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 00:59:22 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 00:59:22 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 00:59:22 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 00:59:22 2009 :: IMC: Connecting to server.
+Thu Aug  6 00:59:22 2009 :: IMC: Loading channels...
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 00:59:22 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 00:59:22 2009 :: IMC: Loading ban list...
+Thu Aug  6 00:59:22 2009 :: IMC: Loading ucache data...
+Thu Aug  6 00:59:23 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 00:59:23 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 00:59:48 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 00:59:48 2009 :: IMC: Shutting down network.
+Thu Aug  6 00:59:48 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:00:13 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:00:13 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:00:13 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:00:13 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:00:13 2009 :: IMC: Loading channels...
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:00:13 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:00:13 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:00:13 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:00:13 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:00:13 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:00:39 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:00:39 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:00:39 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:01:03 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:01:03 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:01:03 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:01:03 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:01:03 2009 :: IMC: Loading channels...
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:01:03 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:01:03 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:01:03 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:01:04 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:01:04 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:01:29 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:01:29 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:01:29 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:01:54 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:01:54 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:01:54 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:01:54 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:01:54 2009 :: IMC: Loading channels...
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:01:54 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:01:54 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:01:54 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:01:55 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:01:55 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:02:20 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:02:20 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:02:20 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:02:45 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:02:45 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:02:45 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:02:45 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:02:45 2009 :: IMC: Loading channels...
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:02:45 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:02:45 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:02:45 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:02:45 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:02:45 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:03:11 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:03:11 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:03:11 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:03:35 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:03:35 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:03:35 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:03:35 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:03:35 2009 :: IMC: Loading channels...
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:03:35 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:03:35 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:03:35 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:03:36 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:03:36 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:04:01 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:04:01 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:04:01 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:04:26 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:04:26 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:04:26 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:04:26 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:04:26 2009 :: IMC: Loading channels...
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:04:26 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:04:26 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:04:26 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:04:26 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:04:26 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:04:52 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:04:52 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:04:52 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:05:17 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:05:17 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:05:17 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:05:17 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:05:17 2009 :: IMC: Loading channels...
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:05:17 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:05:17 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:05:17 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:05:17 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:05:17 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:05:42 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:05:42 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:05:42 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:06:07 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:06:07 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:06:07 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:06:07 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:06:07 2009 :: IMC: Loading channels...
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:06:07 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:06:07 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:06:07 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:06:08 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:06:08 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:06:33 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:06:33 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:06:33 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:06:58 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:06:58 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:06:58 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:06:58 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:06:58 2009 :: IMC: Loading channels...
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:06:58 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:06:58 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:06:58 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:06:58 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:06:58 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:07:24 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:07:24 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:07:24 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:07:48 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:07:48 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:07:48 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:07:48 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:07:48 2009 :: IMC: Loading channels...
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:07:48 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:07:48 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:07:48 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:07:49 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:07:49 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:08:14 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:08:14 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:08:14 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:08:39 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:08:39 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:08:39 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:08:39 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:08:39 2009 :: IMC: Loading channels...
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:08:39 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:08:39 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:08:39 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:08:40 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:08:40 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:09:05 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:09:05 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:09:05 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:09:30 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:09:30 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:09:30 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:09:30 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:09:30 2009 :: IMC: Loading channels...
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:09:30 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:09:30 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:09:30 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:09:30 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:09:30 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:09:55 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:09:55 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:09:55 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:10:20 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:10:20 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:10:20 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:10:20 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:10:20 2009 :: IMC: Loading channels...
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:10:20 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:10:20 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:10:20 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:10:21 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:10:21 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:10:46 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:10:46 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:10:46 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:11:11 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:11:11 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:11:11 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:11:11 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:11:11 2009 :: IMC: Loading channels...
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:11:11 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:11:11 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:11:11 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:11:11 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:11:11 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:11:37 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:11:37 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:11:37 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:12:02 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:12:02 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:12:02 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:12:02 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:12:02 2009 :: IMC: Loading channels...
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:12:02 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:12:02 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:12:02 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:12:02 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:12:02 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:12:28 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:12:28 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:12:28 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:12:49 2009 :: Sock.sinaddr:  127.0.0.1
+Thu Aug  6 01:12:52 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:12:52 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:12:52 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:12:52 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:12:52 2009 :: IMC: Loading channels...
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:12:52 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:12:52 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:12:52 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:12:53 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:12:53 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:12:56 2009 :: Loading Landren.
+Thu Aug  6 01:13:01 2009 :: Log Landren: copyover
+Thu Aug  6 01:13:01 2009 :: Loading configuration settings from ../area/qmconfig.rc.
+Thu Aug  6 01:13:01 2009 :: Loading area immort.are
+Thu Aug  6 01:13:01 2009 :: Loading area ofcol2.are
+Thu Aug  6 01:13:01 2009 :: Loading area shire.are
+Thu Aug  6 01:13:01 2009 :: [*****] FILE: midgaard.are LINE: 2513
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: CHECK_POS : item_type == -1 < 0
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loading area plains.are
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loading area arachnos.are
+Thu Aug  6 01:13:01 2009 :: Loading area astral.are
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loading area catacomb.are
+Thu Aug  6 01:13:01 2009 :: Loading area chapel.are
+Thu Aug  6 01:13:01 2009 :: Loading area daycare.are
+Thu Aug  6 01:13:01 2009 :: Loading area draconia.are
+Thu Aug  6 01:13:01 2009 :: Loading area dream.are
+Thu Aug  6 01:13:01 2009 :: Loading area drow.are
+Thu Aug  6 01:13:01 2009 :: Loading area thalos.are
+Thu Aug  6 01:13:01 2009 :: Loading area dwarven.are
+Thu Aug  6 01:13:01 2009 :: Loading area dylan.are
+Thu Aug  6 01:13:01 2009 :: Loading area eastern.are
+Thu Aug  6 01:13:01 2009 :: Loading area galaxy.are
+Thu Aug  6 01:13:01 2009 :: Loading area gnome.are
+Thu Aug  6 01:13:01 2009 :: Loading area grave.are
+Thu Aug  6 01:13:01 2009 :: Loading area grove.are
+Thu Aug  6 01:13:01 2009 :: Loading area hitower.are
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loading area mahntor.are
+Thu Aug  6 01:13:01 2009 :: Loading area marsh.are
+Thu Aug  6 01:13:01 2009 :: Loading area mega1.are
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loading area mirror.are
+Thu Aug  6 01:13:01 2009 :: Loading area mobfact.are
+Thu Aug  6 01:13:01 2009 :: Loading area moria.are
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loading area nirvana.are
+Thu Aug  6 01:13:01 2009 :: Loading area ofcol.are
+Thu Aug  6 01:13:01 2009 :: Loading area olympus.are
+Thu Aug  6 01:13:01 2009 :: Loading area pyramid.are
+Thu Aug  6 01:13:01 2009 :: Loading area quifael.are
+Thu Aug  6 01:13:01 2009 :: Loading area sewer.are
+Thu Aug  6 01:13:01 2009 :: Loading area redferne.are
+Thu Aug  6 01:13:01 2009 :: Loading area school.are
+Thu Aug  6 01:13:01 2009 :: Loading area smurf.are
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loading area trollden.are
+Thu Aug  6 01:13:01 2009 :: Loading area valley.are
+Thu Aug  6 01:13:01 2009 :: Loading area wyvern.are
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loading area ciquala2.are
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Fix_exits: 9594:2 -> 6100:0 -> 11212.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Fix_exits: 21000:0 -> 21001:2 -> 21004.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Fix_exits: 10925:2 -> 10924:0 -> 10926.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Fix_exits: 9141:1 -> 3001:3 -> 3364.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Fix_exits: 3014:4 -> 15836:5 -> 3025.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  9232)(Level 200) a rainbow warrior
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  9226)(Level 29) a flame lance
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  9226)(Level 200) the Blue Flame
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  9230)(Level 20) the Shock Whip
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  9227)(Level 200) the Magneto
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  9227)(Level 28) an icicle
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  9228)(Level 200) the Ice Bandit
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  9228)(Level 24) the avalanche
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  9229)(Level 200) the Rock Monster
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  9229)(Level 23) the morning star
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  9230)(Level 200) the Hurricane
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  9203)(Level 29) a fiery dagger
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  9209)(Level 200) the Fire Ruler
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  9207)(Level 25) a sparking lightning sword
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  9211)(Level 200) The Lightning Ruler
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  9207)(Level 200) a large elemental
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2119)(Level 11) a broken bottle
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2103)(Level 175) the Troll gang leader
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2106)(Level  9) a stiletto
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2110)(Level 175) the Ogre gang leader
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:13:01 2009 :: Check Levels:
+Thu Aug  6 01:13:01 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:13:01 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:13:01 2009 :: ROM is ready to rock on port 20009 (0.0.0.0).
+Thu Aug  6 01:13:01 2009 :: IMC: Loading IMC2 command table...
+Thu Aug  6 01:13:01 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:13:01 2009 :: IMC: Loading IMC2 help file...
+Thu Aug  6 01:13:01 2009 :: IMC: Loading IMC2 color table...
+Thu Aug  6 01:13:01 2009 :: IMC: Loading IMC2 who template...
+Thu Aug  6 01:13:01 2009 :: IMC: imcfread_word: EOF encountered on read.
+Thu Aug  6 01:13:01 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:13:01 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:13:01 2009 :: IMC: Loading channels...
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:13:01 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:13:01 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:13:01 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:13:01 2009 :: Copyover recovery initiated
+Thu Aug  6 01:13:01 2009 :: Loading Landren.
+Thu Aug  6 01:13:18 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:13:18 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:13:18 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:16:26 2009 :: Loading configuration settings from ../area/qmconfig.rc.
+Thu Aug  6 01:16:26 2009 :: Set IP address to 0.0.0.0
+Thu Aug  6 01:16:26 2009 :: Loading area immort.are
+Thu Aug  6 01:16:26 2009 :: Loading area ofcol2.are
+Thu Aug  6 01:16:26 2009 :: Loading area shire.are
+Thu Aug  6 01:16:26 2009 :: [*****] FILE: midgaard.are LINE: 2513
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: CHECK_POS : item_type == -1 < 0
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loading area plains.are
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loading area arachnos.are
+Thu Aug  6 01:16:26 2009 :: Loading area astral.are
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loading area catacomb.are
+Thu Aug  6 01:16:26 2009 :: Loading area chapel.are
+Thu Aug  6 01:16:26 2009 :: Loading area daycare.are
+Thu Aug  6 01:16:26 2009 :: Loading area draconia.are
+Thu Aug  6 01:16:26 2009 :: Loading area dream.are
+Thu Aug  6 01:16:26 2009 :: Loading area drow.are
+Thu Aug  6 01:16:26 2009 :: Loading area thalos.are
+Thu Aug  6 01:16:26 2009 :: Loading area dwarven.are
+Thu Aug  6 01:16:26 2009 :: Loading area dylan.are
+Thu Aug  6 01:16:26 2009 :: Loading area eastern.are
+Thu Aug  6 01:16:26 2009 :: Loading area galaxy.are
+Thu Aug  6 01:16:26 2009 :: Loading area gnome.are
+Thu Aug  6 01:16:26 2009 :: Loading area grave.are
+Thu Aug  6 01:16:26 2009 :: Loading area grove.are
+Thu Aug  6 01:16:26 2009 :: Loading area hitower.are
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loading area mahntor.are
+Thu Aug  6 01:16:26 2009 :: Loading area marsh.are
+Thu Aug  6 01:16:26 2009 :: Loading area mega1.are
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loading area mirror.are
+Thu Aug  6 01:16:26 2009 :: Loading area mobfact.are
+Thu Aug  6 01:16:26 2009 :: Loading area moria.are
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loading area nirvana.are
+Thu Aug  6 01:16:26 2009 :: Loading area ofcol.are
+Thu Aug  6 01:16:26 2009 :: Loading area olympus.are
+Thu Aug  6 01:16:26 2009 :: Loading area pyramid.are
+Thu Aug  6 01:16:26 2009 :: Loading area quifael.are
+Thu Aug  6 01:16:26 2009 :: Loading area sewer.are
+Thu Aug  6 01:16:26 2009 :: Loading area redferne.are
+Thu Aug  6 01:16:26 2009 :: Loading area school.are
+Thu Aug  6 01:16:26 2009 :: Loading area smurf.are
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loading area trollden.are
+Thu Aug  6 01:16:26 2009 :: Loading area valley.are
+Thu Aug  6 01:16:26 2009 :: Loading area wyvern.are
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loading area ciquala2.are
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Fix_exits: 9594:2 -> 6100:0 -> 11212.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Fix_exits: 21000:0 -> 21001:2 -> 21004.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Fix_exits: 10925:2 -> 10924:0 -> 10926.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Fix_exits: 9141:1 -> 3001:3 -> 3364.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Fix_exits: 3014:4 -> 15836:5 -> 3025.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  9232)(Level 200) a rainbow warrior
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  9226)(Level 29) a flame lance
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  9226)(Level 200) the Blue Flame
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  9230)(Level 20) the Shock Whip
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  9227)(Level 200) the Magneto
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  9227)(Level 28) an icicle
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  9228)(Level 200) the Ice Bandit
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  9228)(Level 24) the avalanche
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  9229)(Level 200) the Rock Monster
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  9229)(Level 23) the morning star
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  9230)(Level 200) the Hurricane
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  9203)(Level 29) a fiery dagger
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  9209)(Level 200) the Fire Ruler
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  9207)(Level 25) a sparking lightning sword
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  9211)(Level 200) The Lightning Ruler
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  9207)(Level 200) a large elemental
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2119)(Level 11) a broken bottle
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2103)(Level 175) the Troll gang leader
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2106)(Level  9) a stiletto
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2110)(Level 175) the Ogre gang leader
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:16:26 2009 :: Check Levels:
+Thu Aug  6 01:16:26 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:16:26 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:16:26 2009 :: ROM is ready to rock on port 20009 (0.0.0.0).
+Thu Aug  6 01:16:26 2009 :: IMC: Loading IMC2 command table...
+Thu Aug  6 01:16:26 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:16:26 2009 :: IMC: Loading IMC2 help file...
+Thu Aug  6 01:16:26 2009 :: IMC: Loading IMC2 color table...
+Thu Aug  6 01:16:26 2009 :: IMC: Loading IMC2 who template...
+Thu Aug  6 01:16:26 2009 :: IMC: imcfread_word: EOF encountered on read.
+Thu Aug  6 01:16:26 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:16:26 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:16:26 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:16:26 2009 :: IMC: Loading channels...
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:16:26 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:16:26 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:16:26 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:16:27 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:16:27 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:16:34 2009 :: Sock.sinaddr:  127.0.0.1
+Thu Aug  6 01:16:43 2009 :: Loading Landren.
+Thu Aug  6 01:16:52 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:16:52 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:16:52 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:17:17 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:17:17 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:17:17 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:17:17 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:17:17 2009 :: IMC: Loading channels...
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:17:17 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:17:17 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:17:17 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:17:18 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:17:18 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:17:43 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:17:43 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:17:43 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:18:08 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:18:08 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:18:08 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:18:08 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:18:08 2009 :: IMC: Loading channels...
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:18:08 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:18:08 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:18:08 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:18:08 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:18:08 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:18:33 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:18:33 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:18:33 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:18:58 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:18:58 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:18:58 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:18:58 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:18:58 2009 :: IMC: Loading channels...
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:18:58 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:18:58 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:18:58 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:18:59 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:18:59 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:19:24 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:19:24 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:19:24 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:19:49 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:19:49 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:19:49 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:19:49 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:19:49 2009 :: IMC: Loading channels...
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:19:49 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:19:49 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:19:49 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:19:49 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:19:49 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:20:14 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:20:14 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:20:14 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:20:39 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:20:39 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:20:39 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:20:39 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:20:39 2009 :: IMC: Loading channels...
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:20:39 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:20:39 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:20:39 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:20:40 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:20:40 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:21:05 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:21:05 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:21:05 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:21:30 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:21:30 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:21:30 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:21:30 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:21:30 2009 :: IMC: Loading channels...
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:21:30 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:21:30 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:21:30 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:21:30 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:21:30 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:21:55 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:21:55 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:21:55 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:22:20 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:22:20 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:22:20 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:22:20 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:22:20 2009 :: IMC: Loading channels...
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:22:20 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:22:20 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:22:20 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:22:21 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:22:21 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:22:46 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:22:46 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:22:46 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:23:11 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:23:11 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:23:11 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:23:11 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:23:11 2009 :: IMC: Loading channels...
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:23:11 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:23:11 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:23:11 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:23:11 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:23:11 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:23:37 2009 :: IMC: Connection close detected on read of IMC2 socket.
+Thu Aug  6 01:23:37 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:23:37 2009 :: IMC: Connection to server was lost. Reconnecting in approximately 20 seconds.
+Thu Aug  6 01:24:01 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:24:01 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:24:01 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:24:01 2009 :: IMC: Connecting to server.
+Thu Aug  6 01:24:01 2009 :: IMC: Loading channels...
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:24:01 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:24:01 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:24:01 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:24:02 2009 :: IMC: Standard Authentication completed.
+Thu Aug  6 01:24:02 2009 :: IMC: Connected to Server01. Network ID: MudBytes
+Thu Aug  6 01:24:07 2009 :: Log Landren: copyover
+Thu Aug  6 01:24:07 2009 :: Loading configuration settings from ../area/qmconfig.rc.
+Thu Aug  6 01:24:07 2009 :: Loading area immort.are
+Thu Aug  6 01:24:07 2009 :: Loading area ofcol2.are
+Thu Aug  6 01:24:07 2009 :: Loading area shire.are
+Thu Aug  6 01:24:07 2009 :: [*****] FILE: midgaard.are LINE: 2513
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: CHECK_POS : item_type == -1 < 0
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loading area plains.are
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loading area arachnos.are
+Thu Aug  6 01:24:07 2009 :: Loading area astral.are
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loading area catacomb.are
+Thu Aug  6 01:24:07 2009 :: Loading area chapel.are
+Thu Aug  6 01:24:07 2009 :: Loading area daycare.are
+Thu Aug  6 01:24:07 2009 :: Loading area draconia.are
+Thu Aug  6 01:24:07 2009 :: Loading area dream.are
+Thu Aug  6 01:24:07 2009 :: Loading area drow.are
+Thu Aug  6 01:24:07 2009 :: Loading area thalos.are
+Thu Aug  6 01:24:07 2009 :: Loading area dwarven.are
+Thu Aug  6 01:24:07 2009 :: Loading area dylan.are
+Thu Aug  6 01:24:07 2009 :: Loading area eastern.are
+Thu Aug  6 01:24:07 2009 :: Loading area galaxy.are
+Thu Aug  6 01:24:07 2009 :: Loading area gnome.are
+Thu Aug  6 01:24:07 2009 :: Loading area grave.are
+Thu Aug  6 01:24:07 2009 :: Loading area grove.are
+Thu Aug  6 01:24:07 2009 :: Loading area hitower.are
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loading area mahntor.are
+Thu Aug  6 01:24:07 2009 :: Loading area marsh.are
+Thu Aug  6 01:24:07 2009 :: Loading area mega1.are
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loading area mirror.are
+Thu Aug  6 01:24:07 2009 :: Loading area mobfact.are
+Thu Aug  6 01:24:07 2009 :: Loading area moria.are
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loading area nirvana.are
+Thu Aug  6 01:24:07 2009 :: Loading area ofcol.are
+Thu Aug  6 01:24:07 2009 :: Loading area olympus.are
+Thu Aug  6 01:24:07 2009 :: Loading area pyramid.are
+Thu Aug  6 01:24:07 2009 :: Loading area quifael.are
+Thu Aug  6 01:24:07 2009 :: Loading area sewer.are
+Thu Aug  6 01:24:07 2009 :: Loading area redferne.are
+Thu Aug  6 01:24:07 2009 :: Loading area school.are
+Thu Aug  6 01:24:07 2009 :: Loading area smurf.are
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loading area trollden.are
+Thu Aug  6 01:24:07 2009 :: Loading area valley.are
+Thu Aug  6 01:24:07 2009 :: Loading area wyvern.are
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loading area ciquala2.are
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: Loaded 0 mobprogs.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Fix_exits: 9594:2 -> 6100:0 -> 11212.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Fix_exits: 21000:0 -> 21001:2 -> 21004.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Fix_exits: 10925:2 -> 10924:0 -> 10926.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Fix_exits: 9141:1 -> 3001:3 -> 3364.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Fix_exits: 3014:4 -> 15836:5 -> 3025.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Equip_char: already equipped (18).
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  9232)(Level 200) a rainbow warrior
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  9226)(Level 29) a flame lance
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  9226)(Level 200) the Blue Flame
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  9230)(Level 20) the Shock Whip
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  9227)(Level 200) the Magneto
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  9227)(Level 28) an icicle
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  9228)(Level 200) the Ice Bandit
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  9228)(Level 24) the avalanche
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  9229)(Level 200) the Rock Monster
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  9229)(Level 23) the morning star
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  9230)(Level 200) the Hurricane
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  9203)(Level 29) a fiery dagger
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  9209)(Level 200) the Fire Ruler
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  9207)(Level 25) a sparking lightning sword
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  9211)(Level 200) The Lightning Ruler
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  9220)(Level 13) a stone club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  9207)(Level 200) a large elemental
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2104)(Level 175) a bruiser
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2119)(Level 11) a broken bottle
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2103)(Level 175) the Troll gang leader
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2109)(Level 175) a punk
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2110)(Level  9) a patrol club
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2106)(Level 175) a patrolman
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2103)(Level 12) a hefty length of chain
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2106)(Level  9) a stiletto
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2110)(Level 175) the Ogre gang leader
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2113)(Level 11) a lead pipe
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2111)(Level 175) a thug
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  2118)(Level  9) a switchblade
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  2107)(Level 175) a vandal
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: [*****] BUG: Read_object: vnum 3200 bad type.
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:24:07 2009 :: Check Levels:
+Thu Aug  6 01:24:07 2009 ::   Object: (VNUM 10902)(Level  8) a {GT{go{Gw{ge{Gr {RG{ru{Ra{rr{Rd{rs {CD{ca{Cg{cg{Ce{cr{x
+Thu Aug  6 01:24:07 2009 ::      Mob: (VNUM 10902)(Level 16) Tower Guard
+Thu Aug  6 01:24:07 2009 :: ROM is ready to rock on port 20009 (0.0.0.0).
+Thu Aug  6 01:24:07 2009 :: IMC: Loading IMC2 command table...
+Thu Aug  6 01:24:07 2009 :: IMC: Loading IMC2 network data...
+Thu Aug  6 01:24:07 2009 :: IMC: Loading IMC2 help file...
+Thu Aug  6 01:24:07 2009 :: IMC: Loading IMC2 color table...
+Thu Aug  6 01:24:07 2009 :: IMC: Loading IMC2 who template...
+Thu Aug  6 01:24:07 2009 :: IMC: imcfread_word: EOF encountered on read.
+Thu Aug  6 01:24:07 2009 :: IMC: IMC2 network data loaded.
+Thu Aug  6 01:24:07 2009 :: IMC: IMC2 Network Initializing...
+Thu Aug  6 01:24:07 2009 :: IMC: Loading channels...
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server01:ichat as ichat
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server01:pchat as pchat
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server01:ibuild as ibuild
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server01:ievennia as ievennia
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server02:icode as icode
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server02:igame as game
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server02:inews as inews
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server02:irc as irc
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server02:imusic as imusic
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server02:imudnews as imudnews
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server02:ifree as ifree
+Thu Aug  6 01:24:07 2009 :: IMC: configured Server02:iRuby as iRuby
+Thu Aug  6 01:24:07 2009 :: IMC: Loading ban list...
+Thu Aug  6 01:24:07 2009 :: IMC: Loading ucache data...
+Thu Aug  6 01:24:07 2009 :: Copyover recovery initiated
+Thu Aug  6 01:24:07 2009 :: Loading Landren.
+Thu Aug  6 01:24:22 2009 :: Log Landren: shutdown
+Thu Aug  6 01:24:22 2009 :: Closing link to Landren.
+Thu Aug  6 01:24:22 2009 :: IMC: Shutting down network.
+Thu Aug  6 01:24:22 2009 :: Normal termination of game.
